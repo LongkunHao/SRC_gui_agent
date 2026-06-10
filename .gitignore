@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment variables
+.env
+
+# Run results
+**/results/
+*.log
+logs/
+
+# Large data (download separately)
+webarena_infinity/apps/user-manuals/
+bench/blog/
+
+# OS files
+.DS_Store
+
+# Local tool/IDE config
+.claude/
+.vscode/
+.notes.md
+
+# Lock files
+uv.lock

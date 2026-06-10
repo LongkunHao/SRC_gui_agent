@@ -1,0 +1,44 @@
+You are adding harder evaluation tasks to `apps/{app-name}`. This is hardening round {round_number}.
+
+## Context: Agent Evaluation Results
+
+{hardening_analysis}
+
+Results directory: `{results_path}`
+Browse the subdirectories for history.json files from passed tasks to understand HOW agents solve them — their action sequences, navigation patterns, and reasoning. Each eval run is a subdirectory containing per-task folders with history.json, result.json, and screenshots/.
+
+## Instructions
+
+1. **Analyze the app.** Read the app code under `apps/{app-name}/` (index.html, js/, css/) to understand all UI features, navigation paths, and available actions.
+
+2. **Review existing tasks.** Read `apps/{app-name}/real-tasks.json` to see what's already covered. Do NOT modify existing tasks, verifiers, or solvers.
+
+3. **Analyze agent behavior.** Browse `{results_path}` for history.json files from tasks that passed — especially those that passed easily (few steps, low elapsed time). Identify patterns the agent relies on and strategies it uses.
+
+4. **Generate {tasks_per_round} new harder tasks.** Apply techniques from `docs/task-hardening-guide.md`:
+   - Discovery: require finding info before acting
+   - Indirect references: describe targets by properties, not names
+   - Chained operations: step N depends on step N-1
+   - Bulk conditional: complex filters defining scope
+   - Cross-feature: span multiple entity types
+   - Disambiguation: similar entities, must pick the right one
+   - Non-obvious UI paths: actions behind context menus, nested pages
+
+   **All generated tasks must be difficulty "hard".** The purpose of hardening is to challenge agents with tasks they cannot easily solve. Easy and medium tasks already have sufficient coverage from earlier phases.
+
+5. **Continue task IDs** from the highest existing ID number. Never reuse an existing task ID.
+
+6. **Append** new tasks to `apps/{app-name}/real-tasks.json`. Do not remove or modify existing entries.
+
+7. **Create verifiers** in `apps/{app-name}/real-tasks/` following the patterns in existing verifiers and `docs/real-task-design-guide.md`.
+
+8. **Add solvers** to `apps/{app-name}/sanity_check_real.py` following `docs/verifier-sanity-check.md`. Each solver must programmatically produce the state that makes its verifier pass.
+
+## Constraints
+
+- Follow `docs/real-task-design-guide.md` for task and verifier design
+- Follow `docs/task-hardening-guide.md` for hardening techniques
+- Follow `docs/verifier-sanity-check.md` for sanity check patterns
+- Do NOT modify existing tasks, verifiers, solvers, or app code
+- All tasks must be completable through the UI by a human
+- Every verifier must be deterministic

@@ -1,0 +1,842 @@
+[
+  {
+    "id": "task_e1",
+    "difficulty": "easy",
+    "instruction": "Close the Safari login page blank screen bug.",
+    "verify": "real-tasks/task_e1.py"
+  },
+  {
+    "id": "task_e2",
+    "difficulty": "easy",
+    "instruction": "Reopen the Analytics Dashboard epic.",
+    "verify": "real-tasks/task_e2.py"
+  },
+  {
+    "id": "task_e3",
+    "difficulty": "easy",
+    "instruction": "Mark the todo about upgrading vulnerable dependencies as done.",
+    "verify": "real-tasks/task_e3.py"
+  },
+  {
+    "id": "task_e4",
+    "difficulty": "easy",
+    "instruction": "Delete the markdown preview rendering bug.",
+    "verify": "real-tasks/task_e4.py"
+  },
+  {
+    "id": "task_e5",
+    "difficulty": "easy",
+    "instruction": "Set the weight of the 404 error page typo fix to 3.",
+    "verify": "real-tasks/task_e5.py"
+  },
+  {
+    "id": "task_e6",
+    "difficulty": "easy",
+    "instruction": "Make the API rate limiting issue confidential.",
+    "verify": "real-tasks/task_e6.py"
+  },
+  {
+    "id": "task_e7",
+    "difficulty": "easy",
+    "instruction": "Remove the 'needs-discussion' label from the real-time collaborative editing issue.",
+    "verify": "real-tasks/task_e7.py"
+  },
+  {
+    "id": "task_e8",
+    "difficulty": "easy",
+    "instruction": "Close the v4.3 - Mobile Optimization milestone.",
+    "verify": "real-tasks/task_e8.py"
+  },
+  {
+    "id": "task_e9",
+    "difficulty": "easy",
+    "instruction": "Assign Luca Rossi to the retry mechanism for failed API calls issue.",
+    "verify": "real-tasks/task_e9.py"
+  },
+  {
+    "id": "task_e10",
+    "difficulty": "easy",
+    "instruction": "Set a due date of April 30, 2026 for the webhook support issue.",
+    "verify": "real-tasks/task_e10.py"
+  },
+  {
+    "id": "task_e11",
+    "difficulty": "easy",
+    "instruction": "Change the health status of the JavaScript bundle size reduction issue to at risk.",
+    "verify": "real-tasks/task_e11.py"
+  },
+  {
+    "id": "task_e12",
+    "difficulty": "easy",
+    "instruction": "Mark the todo about the lazy loading for images issue as done.",
+    "verify": "real-tasks/task_e12.py"
+  },
+  {
+    "id": "task_e13",
+    "difficulty": "easy",
+    "instruction": "Remove Nina Kowalski from the dark mode support issue.",
+    "verify": "real-tasks/task_e13.py"
+  },
+  {
+    "id": "task_e14",
+    "difficulty": "easy",
+    "instruction": "Rename the 'good-first-issue' label to 'starter-issue'.",
+    "verify": "real-tasks/task_e14.py"
+  },
+  {
+    "id": "task_e15",
+    "difficulty": "easy",
+    "instruction": "Close the Frontend Modernization epic.",
+    "verify": "real-tasks/task_e15.py"
+  },
+  {
+    "id": "task_e16",
+    "difficulty": "easy",
+    "instruction": "Delete the Backlog milestone.",
+    "verify": "real-tasks/task_e16.py"
+  },
+  {
+    "id": "task_e17",
+    "difficulty": "easy",
+    "instruction": "Unassign Oliver Schmidt from the vulnerable dependencies upgrade issue.",
+    "verify": "real-tasks/task_e17.py"
+  },
+  {
+    "id": "task_e18",
+    "difficulty": "easy",
+    "instruction": "Set the weight of the sidebar tooltip issue to 3.",
+    "verify": "real-tasks/task_e18.py"
+  },
+  {
+    "id": "task_e19",
+    "difficulty": "easy",
+    "instruction": "Move the project README update issue to the Q1 2026 Planning milestone.",
+    "verify": "real-tasks/task_e19.py"
+  },
+  {
+    "id": "task_e20",
+    "difficulty": "easy",
+    "instruction": "Restore the snoozed todo about the GraphQL gateway review.",
+    "verify": "real-tasks/task_e20.py"
+  },
+  {
+    "id": "task_m1",
+    "difficulty": "medium",
+    "instruction": "Create a new milestone called 'v4.4 - Integrations' starting August 1, 2026 and ending September 30, 2026.",
+    "verify": "real-tasks/task_m1.py"
+  },
+  {
+    "id": "task_m2",
+    "difficulty": "medium",
+    "instruction": "Add the keyboard shortcuts issue to the Platform Redesign epic and set its iteration to Sprint 27.",
+    "verify": "real-tasks/task_m2.py"
+  },
+  {
+    "id": "task_m3",
+    "difficulty": "medium",
+    "instruction": "Create a new issue titled 'Set up monitoring dashboard' assigned to Luca Rossi with the priority::high label.",
+    "verify": "real-tasks/task_m3.py"
+  },
+  {
+    "id": "task_m4",
+    "difficulty": "medium",
+    "instruction": "Remove all assignees from the dark mode support issue and set its health status to needs attention.",
+    "verify": "real-tasks/task_m4.py"
+  },
+  {
+    "id": "task_m5",
+    "difficulty": "medium",
+    "instruction": "Move the loading skeletons issue to the v4.0 - Platform Redesign milestone and add it to the Frontend Modernization epic.",
+    "verify": "real-tasks/task_m5.py"
+  },
+  {
+    "id": "task_m6",
+    "difficulty": "medium",
+    "instruction": "Add the 'breaking-change' and 'performance' labels to the container registry garbage collection issue.",
+    "verify": "real-tasks/task_m6.py"
+  },
+  {
+    "id": "task_m7",
+    "difficulty": "medium",
+    "instruction": "Disable automatic scheduling and roll-over on the Sprint Cadence.",
+    "verify": "real-tasks/task_m7.py"
+  },
+  {
+    "id": "task_m8",
+    "difficulty": "medium",
+    "instruction": "Close all open issues assigned to Fatima Al-Rashid.",
+    "verify": "real-tasks/task_m8.py"
+  },
+  {
+    "id": "task_m9",
+    "difficulty": "medium",
+    "instruction": "Create a new epic called 'CI/CD Pipeline Improvements' and add the Playwright end-to-end testing issue to it.",
+    "verify": "real-tasks/task_m9.py"
+  },
+  {
+    "id": "task_m10",
+    "difficulty": "medium",
+    "instruction": "Set a time estimate of 4 hours on the dropdown menu position bug and assign it to the Backlog milestone.",
+    "verify": "real-tasks/task_m10.py"
+  },
+  {
+    "id": "task_m11",
+    "difficulty": "medium",
+    "instruction": "Move the CSP headers issue to the v4.1 milestone and change its iteration to Sprint 27.",
+    "verify": "real-tasks/task_m11.py"
+  },
+  {
+    "id": "task_m12",
+    "difficulty": "medium",
+    "instruction": "Move all issues in Sprint 26 assigned to David Kim to Sprint 27.",
+    "verify": "real-tasks/task_m12.py"
+  },
+  {
+    "id": "task_m13",
+    "difficulty": "medium",
+    "instruction": "Set a start date of March 15 and due date of April 15, 2026 for the retry mechanism issue.",
+    "verify": "real-tasks/task_m13.py"
+  },
+  {
+    "id": "task_m14",
+    "difficulty": "medium",
+    "instruction": "Create a new iteration called 'Sprint 29' in the Sprint Cadence starting March 31 and ending April 13, 2026.",
+    "verify": "real-tasks/task_m14.py"
+  },
+  {
+    "id": "task_m15",
+    "difficulty": "medium",
+    "instruction": "Replace the 'UX' label on the Platform Redesign epic with 'needs-discussion'.",
+    "verify": "real-tasks/task_m15.py"
+  },
+  {
+    "id": "task_m16",
+    "difficulty": "medium",
+    "instruction": "Assign Priya Patel and Marcus Johnson to the component library documentation issue.",
+    "verify": "real-tasks/task_m16.py"
+  },
+  {
+    "id": "task_m17",
+    "difficulty": "medium",
+    "instruction": "Create a new board called 'Priority Board' with a list for the priority::critical label.",
+    "verify": "real-tasks/task_m17.py"
+  },
+  {
+    "id": "task_m18",
+    "difficulty": "medium",
+    "instruction": "Add the 'performance' label to the JWT authentication migration issue and set its health status to needs attention.",
+    "verify": "real-tasks/task_m18.py"
+  },
+  {
+    "id": "task_m19",
+    "difficulty": "medium",
+    "instruction": "Remove Aisha Mohammed from the component library documentation issue and assign Nina Kowalski instead.",
+    "verify": "real-tasks/task_m19.py"
+  },
+  {
+    "id": "task_m20",
+    "difficulty": "medium",
+    "instruction": "Rename the 'technical-debt' label to 'tech-debt' and set its description to 'Legacy code requiring refactoring'.",
+    "verify": "real-tasks/task_m20.py"
+  },
+  {
+    "id": "task_h1",
+    "difficulty": "hard",
+    "instruction": "Create a new epic called 'Accessibility Initiative' with the 'accessibility' label, then add all issues that have the accessibility label to this epic.",
+    "verify": "real-tasks/task_h1.py"
+  },
+  {
+    "id": "task_h2",
+    "difficulty": "hard",
+    "instruction": "Close all open bugs that have priority::low.",
+    "verify": "real-tasks/task_h2.py"
+  },
+  {
+    "id": "task_h3",
+    "difficulty": "hard",
+    "instruction": "Move all issues in the Security Hardening milestone that don't have the 'security' label to v4.1 - Performance.",
+    "verify": "real-tasks/task_h3.py"
+  },
+  {
+    "id": "task_h4",
+    "difficulty": "hard",
+    "instruction": "Create a new iteration cadence called 'Hotfix Cadence' with 1-week duration, then create an iteration 'Hotfix 1' in it starting March 3 and ending March 9, 2026.",
+    "verify": "real-tasks/task_h4.py"
+  },
+  {
+    "id": "task_h5",
+    "difficulty": "hard",
+    "instruction": "Reassign all of James O'Brien's open issues to Yuki Tanaka.",
+    "verify": "real-tasks/task_h5.py"
+  },
+  {
+    "id": "task_h6",
+    "difficulty": "hard",
+    "instruction": "Close the v4.0 - Platform Redesign milestone and move all its open issues to v4.1 - Performance.",
+    "verify": "real-tasks/task_h6.py"
+  },
+  {
+    "id": "task_h7",
+    "difficulty": "hard",
+    "instruction": "Remove all labels from the error boundary fallback UI issue and replace them with type::bug and priority::medium.",
+    "verify": "real-tasks/task_h7.py"
+  },
+  {
+    "id": "task_h8",
+    "difficulty": "hard",
+    "instruction": "Create a confidential issue titled 'Emergency security patch' with priority::critical and the 'security' label, assigned to James O'Brien and Oliver Schmidt, with weight 2 in the Security Hardening milestone.",
+    "verify": "real-tasks/task_h8.py"
+  },
+  {
+    "id": "task_h9",
+    "difficulty": "hard",
+    "instruction": "Move all unassigned open issues to the Backlog milestone and add the 'needs-discussion' label to each.",
+    "verify": "real-tasks/task_h9.py"
+  },
+  {
+    "id": "task_h10",
+    "difficulty": "hard",
+    "instruction": "Delete the Sprint Board and create a new board called 'Release Board' with lists for the v4.0, v4.1, and v4.2 milestones.",
+    "verify": "real-tasks/task_h10.py"
+  },
+  {
+    "id": "task_h11",
+    "difficulty": "hard",
+    "instruction": "Reassign all of Luca Rossi's issues under the Performance Initiative epic and its child epics to Chen Wei.",
+    "verify": "real-tasks/task_h11.py"
+  },
+  {
+    "id": "task_h12",
+    "difficulty": "hard",
+    "instruction": "Set the weight to 8 and add the priority::high label to all issues in the Database Optimization epic.",
+    "verify": "real-tasks/task_h12.py"
+  },
+  {
+    "id": "task_h13",
+    "difficulty": "hard",
+    "instruction": "Create a new label 'sprint-goal' with green color (#1aaa55), then apply it to all open issues in Sprint 26.",
+    "verify": "real-tasks/task_h13.py"
+  },
+  {
+    "id": "task_h14",
+    "difficulty": "hard",
+    "instruction": "Mark all pending todos as done, then create a new issue titled 'Review Q1 objectives' assigned to yourself with the priority::medium label.",
+    "verify": "real-tasks/task_h14.py"
+  },
+  {
+    "id": "task_h15",
+    "difficulty": "hard",
+    "instruction": "Delete all labels in the 'component' scope.",
+    "verify": "real-tasks/task_h15.py"
+  },
+  {
+    "id": "task_h16",
+    "difficulty": "hard",
+    "instruction": "Make sure Nina Kowalski is assigned to every issue in the Frontend Modernization epic.",
+    "verify": "real-tasks/task_h16.py"
+  },
+  {
+    "id": "task_h17",
+    "difficulty": "hard",
+    "instruction": "Remove the 'technical-debt' label from all issues and add 'type::improvement' instead.",
+    "verify": "real-tasks/task_h17.py"
+  },
+  {
+    "id": "task_h18",
+    "difficulty": "hard",
+    "instruction": "Create a milestone 'Bug Bash Week' starting March 10 and ending March 14, 2026, then move all open type::bug issues that don't already have a milestone into it.",
+    "verify": "real-tasks/task_h18.py"
+  },
+  {
+    "id": "task_h19",
+    "difficulty": "hard",
+    "instruction": "Close the Caching Layer Implementation epic and reassign its issues to the Database Optimization epic.",
+    "verify": "real-tasks/task_h19.py"
+  },
+  {
+    "id": "task_h20",
+    "difficulty": "hard",
+    "instruction": "Delete the 'blocked' label and create a new scoped label 'status::blocked' with red color (#b91c1c), then apply it to the user settings page migration issue.",
+    "verify": "real-tasks/task_h20.py"
+  },
+  {
+    "id": "task_h21",
+    "difficulty": "hard",
+    "instruction": "Log 3 hours of time with the summary 'Schema validation review' on the GraphQL gateway issue and change its health status to needs attention.",
+    "verify": "real-tasks/task_h21.py"
+  },
+  {
+    "id": "task_h22",
+    "difficulty": "hard",
+    "instruction": "Find the open issue in the Security Hardening epic that has no assignees, assign Chen Wei to it, and set its iteration to Sprint 27.",
+    "verify": "real-tasks/task_h22.py"
+  },
+  {
+    "id": "task_h23",
+    "difficulty": "hard",
+    "instruction": "Create a board called 'Security Overview' with lists for the priority::critical, priority::high, and security labels.",
+    "verify": "real-tasks/task_h23.py"
+  },
+  {
+    "id": "task_h24",
+    "difficulty": "hard",
+    "instruction": "Delete all time entries from the user settings page migration issue and set its time estimate to 20 hours.",
+    "verify": "real-tasks/task_h24.py"
+  },
+  {
+    "id": "task_h25",
+    "difficulty": "hard",
+    "instruction": "Set the health status of the Performance Initiative epic and both of its child epics to needs attention.",
+    "verify": "real-tasks/task_h25.py"
+  },
+  {
+    "id": "task_h26",
+    "difficulty": "hard",
+    "instruction": "Create a new epic called 'Technical Debt Cleanup' as a child of the Platform Redesign epic, then move all issues with the 'technical-debt' label into it.",
+    "verify": "real-tasks/task_h26.py"
+  },
+  {
+    "id": "task_h27",
+    "difficulty": "hard",
+    "instruction": "Edit the Monthly Planning cadence to use 2-week duration instead of 4-week and rename it to 'Bi-Weekly Planning'.",
+    "verify": "real-tasks/task_h27.py"
+  },
+  {
+    "id": "task_h28",
+    "difficulty": "hard",
+    "instruction": "Add a 2-hour time entry with summary 'Security review' to the CSP headers issue, then move it from Sprint 26 to Sprint 28.",
+    "verify": "real-tasks/task_h28.py"
+  },
+  {
+    "id": "task_h29",
+    "difficulty": "hard",
+    "instruction": "Close all open type::bug issues in the v4.1 - Performance milestone.",
+    "verify": "real-tasks/task_h29.py"
+  },
+  {
+    "id": "task_h30",
+    "difficulty": "hard",
+    "instruction": "Create a new iteration called 'Security Sprint' in the Release Cycle cadence starting March 3 and ending March 16, 2026, then assign all open issues from the Security Hardening epic to this iteration.",
+    "verify": "real-tasks/task_h30.py"
+  },
+  {
+    "id": "task_h31",
+    "difficulty": "hard",
+    "instruction": "Make the Enterprise SSO Integration epic a child of the Security Hardening epic and set its health status to on_track.",
+    "verify": "real-tasks/task_h31.py"
+  },
+  {
+    "id": "task_h32",
+    "difficulty": "hard",
+    "instruction": "Assign Sarah Chen and Marcus Johnson to the CSRF token rotation issue, set its priority to high, and move it to Sprint 28.",
+    "verify": "real-tasks/task_h32.py"
+  },
+  {
+    "id": "task_h33",
+    "difficulty": "hard",
+    "instruction": "Delete the Bug Triage board and create a new board called 'Team Workload' with lists for the workflow::ready, workflow::in-progress, and workflow::review labels.",
+    "verify": "real-tasks/task_h33.py"
+  },
+  {
+    "id": "task_h34",
+    "difficulty": "hard",
+    "instruction": "Close both issues in the Documentation Overhaul epic, remove their milestone assignments, and close the epic itself.",
+    "verify": "real-tasks/task_h34.py"
+  },
+  {
+    "id": "task_h35",
+    "difficulty": "hard",
+    "instruction": "Rename the 'performance' label to 'perf', change its color to blue (#0284c7), and update its description to 'Performance optimization work'.",
+    "verify": "real-tasks/task_h35.py"
+  },
+  {
+    "id": "task_h36",
+    "difficulty": "hard",
+    "instruction": "Reopen the two closed issues from Sprint 24 and move them to Sprint 28.",
+    "verify": "real-tasks/task_h36.py"
+  },
+  {
+    "id": "task_h37",
+    "difficulty": "hard",
+    "instruction": "Add the 'accessibility' label to every open issue in the Frontend Modernization epic that doesn't already have it.",
+    "verify": "real-tasks/task_h37.py"
+  },
+  {
+    "id": "task_h38",
+    "difficulty": "hard",
+    "instruction": "Set the weight to 5 and add the priority::medium label to every open issue that has no assignees, no milestone, and no epic.",
+    "verify": "real-tasks/task_h38.py"
+  },
+  {
+    "id": "task_h39",
+    "difficulty": "hard",
+    "instruction": "Edit the Release Cycle cadence to enable automatic scheduling starting March 1, 2026, with a 4-week duration and 2 upcoming iterations.",
+    "verify": "real-tasks/task_h39.py"
+  },
+  {
+    "id": "task_h40",
+    "difficulty": "hard",
+    "instruction": "Create a new label called 'needs-review' with the color #fbca04, then apply it to all open issues assigned to Marcus Johnson.",
+    "verify": "real-tasks/task_h40.py"
+  },
+  {
+    "id": "task_h41",
+    "difficulty": "hard",
+    "instruction": "For every open issue in the v4.2 - Security Hardening milestone: if it is already confidential, set its health status to 'at risk'. If it is not confidential, make it confidential and set its health status to 'needs attention'.",
+    "verify": "real-tasks/task_h41.py"
+  },
+  {
+    "id": "task_h42",
+    "difficulty": "hard",
+    "instruction": "Find the epic whose health status is 'at risk', create a new milestone called 'Risk Mitigation Sprint' starting March 3 and ending March 14, 2026, and move all of that epic's open issues into this new milestone.",
+    "verify": "real-tasks/task_h42.py"
+  },
+  {
+    "id": "task_h43",
+    "difficulty": "hard",
+    "instruction": "The open issue with the highest weight in the project currently has no iteration. Assign it to Sprint 27 and add the 'needs-discussion' label.",
+    "verify": "real-tasks/task_h43.py"
+  },
+  {
+    "id": "task_h44",
+    "difficulty": "hard",
+    "instruction": "Create a new scoped label 'review::pending' with purple color (#7b68ee), then apply it to every open issue that currently has the 'workflow::ready' label.",
+    "verify": "real-tasks/task_h44.py"
+  },
+  {
+    "id": "task_h45",
+    "difficulty": "hard",
+    "instruction": "The Platform Redesign epic has two child epics. Close the one that has fewer open issues.",
+    "verify": "real-tasks/task_h45.py"
+  },
+  {
+    "id": "task_h46",
+    "difficulty": "hard",
+    "instruction": "Move all open issues that have no epic and no milestone to the Backlog milestone and add them to the Documentation Overhaul epic.",
+    "verify": "real-tasks/task_h46.py"
+  },
+  {
+    "id": "task_h47",
+    "difficulty": "hard",
+    "instruction": "Find the iteration cadence that does not use automatic scheduling. Create a new iteration called 'Patch Release' in it starting March 17 and ending March 28, 2026, then assign all open issues with the 'security' label that currently have no iteration to this new iteration.",
+    "verify": "real-tasks/task_h47.py"
+  },
+  {
+    "id": "task_h48",
+    "difficulty": "hard",
+    "instruction": "Add the 'breaking-change' label to every open issue in the API v3 Migration epic and remove any existing workflow-scoped labels from those issues.",
+    "verify": "real-tasks/task_h48.py"
+  },
+  {
+    "id": "task_h49",
+    "difficulty": "hard",
+    "instruction": "The Mobile App v2 epic has no issues yet. Create two new issues for it: 'Mobile app wireframes' with the 'design-needed' label and weight 5, and 'React Native project scaffolding' with the 'type::task' label and weight 3. Assign both to Priya Patel.",
+    "verify": "real-tasks/task_h49.py"
+  },
+  {
+    "id": "task_h50",
+    "difficulty": "hard",
+    "instruction": "Log 1 hour of time with the summary 'Sprint planning review' on every open issue assigned to Oliver Schmidt and set each of those issues' health status to 'on track'.",
+    "verify": "real-tasks/task_h50.py"
+  },
+  {
+    "id": "task_h51",
+    "difficulty": "hard",
+    "instruction": "Close every open issue with the 'type::documentation' label and remove their milestone assignments.",
+    "verify": "real-tasks/task_h51.py"
+  },
+  {
+    "id": "task_h52",
+    "difficulty": "hard",
+    "instruction": "Create a new board called 'Performance Tracker' with lists for the priority::critical, priority::high, and priority::medium labels. Then add the 'priority::high' label to every open issue in the v4.1 milestone that has the 'performance' label.",
+    "verify": "real-tasks/task_h52.py"
+  },
+  {
+    "id": "task_h53",
+    "difficulty": "hard",
+    "instruction": "Among the top-level epics (those without a parent), find the one with the latest due date. Set its health status to 'needs attention' and add the 'needs-discussion' label.",
+    "verify": "real-tasks/task_h53.py"
+  },
+  {
+    "id": "task_h54",
+    "difficulty": "hard",
+    "instruction": "Remove all labels from the Performance Initiative epic and replace them with 'priority::high' and 'needs-discussion'. Then set the health status of both its child epics to 'at risk'.",
+    "verify": "real-tasks/task_h54.py"
+  },
+  {
+    "id": "task_h55",
+    "difficulty": "hard",
+    "instruction": "Change the color of the 'security' label to black (#000000) and update its description to 'Critical security work'. Then set the weight to 13 on every open issue in the Security Hardening epic that has this label.",
+    "verify": "real-tasks/task_h55.py"
+  },
+  {
+    "id": "task_h56",
+    "difficulty": "hard",
+    "instruction": "Reassign all of Aisha Mohammed's open issues in the v4.0 - Platform Redesign milestone to Nina Kowalski, and change their iteration to Sprint 28.",
+    "verify": "real-tasks/task_h56.py"
+  },
+  {
+    "id": "task_h57",
+    "difficulty": "hard",
+    "instruction": "Create a new label 'sprint-carry-over' with orange color (#f97316), then apply it to every open issue in Sprint 26 whose health status is 'needs attention' or 'at risk'. Also move those issues from Sprint 26 to Sprint 27.",
+    "verify": "real-tasks/task_h57.py"
+  },
+  {
+    "id": "task_h58",
+    "difficulty": "hard",
+    "instruction": "The Performance Initiative epic has two child epics. For the child epic with more open issues, set the weight of every issue in it to 13. For the other child epic, close all its open issues.",
+    "verify": "real-tasks/task_h58.py"
+  },
+  {
+    "id": "task_h59",
+    "difficulty": "hard",
+    "instruction": "Find all open issues in Sprint 26 whose due date is before March 2, 2026. Set their health status to 'at risk' and move them to Sprint 27.",
+    "verify": "real-tasks/task_h59.py"
+  },
+  {
+    "id": "task_h60",
+    "difficulty": "hard",
+    "instruction": "Delete both the Sprint Board and the Bug Triage board. Then create a new board called 'Unified Workflow' with lists for the workflow::ready, workflow::in-progress, workflow::review, and workflow::done labels.",
+    "verify": "real-tasks/task_h60.py"
+  },
+  {
+    "id": "task_h61",
+    "difficulty": "hard",
+    "instruction": "Snooze all pending todos that reference issues in the v4.0 - Platform Redesign milestone until March 10, 2026.",
+    "verify": "real-tasks/task_h61.py"
+  },
+  {
+    "id": "task_h62",
+    "difficulty": "hard",
+    "instruction": "Find all open issues in Sprint 26 whose health status is 'at risk' or 'needs attention'. Log 2 hours of time with summary 'Sprint risk review' on each and move them to Sprint 27.",
+    "verify": "real-tasks/task_h62.py"
+  },
+  {
+    "id": "task_h63",
+    "difficulty": "hard",
+    "instruction": "Move all open issues from the milestone whose description mentions 'security audit' to the milestone whose description mentions 'performance optimization'.",
+    "verify": "real-tasks/task_h63.py"
+  },
+  {
+    "id": "task_h64",
+    "difficulty": "hard",
+    "instruction": "For every open issue assigned to James O'Brien: if it has a milestone, set its health status to 'on track'. If it has no milestone, assign it to the Backlog milestone and add the 'needs-discussion' label.",
+    "verify": "real-tasks/task_h64.py"
+  },
+  {
+    "id": "task_h65",
+    "difficulty": "hard",
+    "instruction": "For all open issues with the 'performance' label: if the issue also has a 'component::database' label, set its priority to 'critical'. If it has 'component::frontend', set its priority to 'high'. For all others, set the priority to 'medium'.",
+    "verify": "real-tasks/task_h65.py"
+  },
+  {
+    "id": "task_h66",
+    "difficulty": "hard",
+    "instruction": "Find the iteration with the most open issues assigned to it. Create a new label called 'sprint-focus' with color #0891b2 and apply it to all open issues in that iteration.",
+    "verify": "real-tasks/task_h66.py"
+  },
+  {
+    "id": "task_h67",
+    "difficulty": "hard",
+    "instruction": "Delete all time entries from the GraphQL gateway issue, add a single new entry of 16 hours with summary 'Complete rewrite estimate', and set its time estimate to 40 hours.",
+    "verify": "real-tasks/task_h67.py"
+  },
+  {
+    "id": "task_h68",
+    "difficulty": "hard",
+    "instruction": "Log 1 hour of time with summary 'Architecture review' on every open issue that has a weight of 13 or higher.",
+    "verify": "real-tasks/task_h68.py"
+  },
+  {
+    "id": "task_h69",
+    "difficulty": "hard",
+    "instruction": "Restore all 'done' todos back to pending status, then snooze every todo that references an epic (not an issue) until March 15, 2026.",
+    "verify": "real-tasks/task_h69.py"
+  },
+  {
+    "id": "task_h70",
+    "difficulty": "hard",
+    "instruction": "Delete the board that uses milestone-based lists, then create a new board called 'Milestone Tracker' with lists for the three active milestones with the earliest start dates.",
+    "verify": "real-tasks/task_h70.py"
+  },
+  {
+    "id": "task_h71",
+    "difficulty": "hard",
+    "instruction": "For every open issue that has no assignees: if it has a milestone, add the 'needs-discussion' label. If it also has no milestone, assign it to the Backlog milestone and add the 'needs-discussion' label.",
+    "verify": "real-tasks/task_h71.py"
+  },
+  {
+    "id": "task_h72",
+    "difficulty": "hard",
+    "instruction": "Close all open issues that have the 'good-first-issue' label, but first add a time entry of 30 minutes with summary 'Resolved during onboarding' to each.",
+    "verify": "real-tasks/task_h72.py"
+  },
+  {
+    "id": "task_h73",
+    "difficulty": "hard",
+    "instruction": "Create a new iteration called 'Bug Fix Sprint' in the Sprint Cadence starting March 31, 2026 and ending April 13, 2026. Then move every open 'type::bug' issue that currently has no iteration into this new iteration.",
+    "verify": "real-tasks/task_h73.py"
+  },
+  {
+    "id": "task_h74",
+    "difficulty": "hard",
+    "instruction": "Reassign all of Chen Wei's open issues to Alex Thompson, except for issues in the v4.0 - Platform Redesign milestone \u2014 leave those unchanged.",
+    "verify": "real-tasks/task_h74.py"
+  },
+  {
+    "id": "task_h75",
+    "difficulty": "hard",
+    "instruction": "Find all open epics that currently have no issues assigned to them. For each, create a new issue titled 'Initial planning for [epic title]' with the 'type::task' label and assign it to Priya Patel.",
+    "verify": "real-tasks/task_h75.py"
+  },
+  {
+    "id": "task_h76",
+    "difficulty": "hard",
+    "instruction": "Make the Documentation Overhaul epic a child of the Platform Redesign epic, add the 'priority::high' label to both of its issues, and set the epic's health status to 'at risk'.",
+    "verify": "real-tasks/task_h76.py"
+  },
+  {
+    "id": "task_h77",
+    "difficulty": "hard",
+    "instruction": "Rename the 'UX' label to 'user-experience', change its type to 'group', and then add it to every open issue in the Frontend Modernization epic that doesn't already have it.",
+    "verify": "real-tasks/task_h77.py"
+  },
+  {
+    "id": "task_h78",
+    "difficulty": "hard",
+    "instruction": "Create a new milestone called 'Tech Debt Sprint' starting March 17 and ending March 28, 2026. Move all open issues with the 'technical-debt' label into it and set their health status to 'needs attention'.",
+    "verify": "real-tasks/task_h78.py"
+  },
+  {
+    "id": "task_h79",
+    "difficulty": "hard",
+    "instruction": "Set the time estimate to 24 hours on every open issue in the Frontend Modernization epic, then change the epic's health status to 'at risk'.",
+    "verify": "real-tasks/task_h79.py"
+  },
+  {
+    "id": "task_h80",
+    "difficulty": "hard",
+    "instruction": "Find the two open issues that have the highest amount of time already spent on them. Set their health status to 'needs attention' and add the 'needs-discussion' label to both.",
+    "verify": "real-tasks/task_h80.py"
+  },
+  {
+    "id": "task_h81",
+    "difficulty": "hard",
+    "instruction": "Create a new scoped label called 'status::blocked' with color #b60205. Then create a new issue titled 'Resolve CDN provider outage' with that label, assigned to Luca Rossi, in the v4.1 - Performance milestone, with weight 5.",
+    "verify": "real-tasks/task_h81.py"
+  },
+  {
+    "id": "task_h82",
+    "difficulty": "hard",
+    "instruction": "The Security Hardening epic has one open issue with no assignees. Find it, assign Chen Wei to it, add the 'priority::high' label, and move it to Sprint 27.",
+    "verify": "real-tasks/task_h82.py"
+  },
+  {
+    "id": "task_h83",
+    "difficulty": "hard",
+    "instruction": "Move all open issues in the Database Optimization epic that are currently in Sprint 26 to Sprint 27 instead.",
+    "verify": "real-tasks/task_h83.py"
+  },
+  {
+    "id": "task_h84",
+    "difficulty": "hard",
+    "instruction": "Two issues in the Database Optimization epic are in the current sprint. For the one about analyzing slow queries, log 3 hours of time with summary 'Index optimization review'. For the one about keyset pagination, increase its weight to 8.",
+    "verify": "real-tasks/task_h84.py"
+  },
+  {
+    "id": "task_h85",
+    "difficulty": "hard",
+    "instruction": "Close the Q1 2026 Planning milestone and move all of its open issues to the v4.1 - Performance milestone.",
+    "verify": "real-tasks/task_h85.py"
+  },
+  {
+    "id": "task_h86",
+    "difficulty": "hard",
+    "instruction": "Create a new iteration called 'Release 4.0 GA' in the Release Cycle cadence, starting March 1 and ending March 15, 2026. Then assign the CSP headers issue and the vulnerable dependencies issue to this new iteration.",
+    "verify": "real-tasks/task_h86.py"
+  },
+  {
+    "id": "task_h87",
+    "difficulty": "hard",
+    "instruction": "Add the 'needs-discussion' label to every open issue that has both the 'type::bug' and 'priority::high' labels.",
+    "verify": "real-tasks/task_h87.py"
+  },
+  {
+    "id": "task_h88",
+    "difficulty": "hard",
+    "instruction": "Create a new epic called 'Developer Tooling' with the 'type::feature' label and description 'Tools and utilities to improve developer productivity'. Then add the keyboard shortcuts issue and the bulk operations issue to this epic.",
+    "verify": "real-tasks/task_h88.py"
+  },
+  {
+    "id": "task_h89",
+    "difficulty": "hard",
+    "instruction": "The todo about the GraphQL gateway review has been snoozed. Restore it to pending. Then go to that issue and log 2 hours of time with summary 'Schema optimization review'.",
+    "verify": "real-tasks/task_h89.py"
+  },
+  {
+    "id": "task_h90",
+    "difficulty": "hard",
+    "instruction": "Rename the 'blocked' label to 'on-hold', change its color to #e67e22, and update its description to 'Temporarily paused pending external input'. Then apply this label to the CSRF token rotation issue.",
+    "verify": "real-tasks/task_h90.py"
+  },
+  {
+    "id": "task_h91",
+    "difficulty": "hard",
+    "instruction": "Move the Caching Layer Implementation epic so it becomes a child of the Platform Redesign epic instead of Performance Initiative. Then set the health status of all its open issues to 'needs attention'.",
+    "verify": "real-tasks/task_h91.py"
+  },
+  {
+    "id": "task_h92",
+    "difficulty": "hard",
+    "instruction": "On the issue about migrating user settings to React, log 8 hours with summary 'Form validation and API integration testing'. Then set its health status to 'at risk' and change its weight to 13.",
+    "verify": "real-tasks/task_h92.py"
+  },
+  {
+    "id": "task_h93",
+    "difficulty": "hard",
+    "instruction": "Delete the Bug Triage board and create a new board called 'Severity Board' with two lists: one for the 'priority::critical' label and one for the 'priority::high' label.",
+    "verify": "real-tasks/task_h93.py"
+  },
+  {
+    "id": "task_h94",
+    "difficulty": "hard",
+    "instruction": "Find the open epic that was created most recently but has no issues assigned to it. Set its health status to 'needs attention' and change its start date to March 15, 2026.",
+    "verify": "real-tasks/task_h94.py"
+  },
+  {
+    "id": "task_h95",
+    "difficulty": "hard",
+    "instruction": "Find the two issues in Sprint 26 with the highest weight. Add the 'blocked' label to both of them.",
+    "verify": "real-tasks/task_h95.py"
+  },
+  {
+    "id": "task_h96",
+    "difficulty": "hard",
+    "instruction": "Create a new milestone called 'Hotfix 4.0.1' starting March 3 and ending March 10, 2026. Create a new iteration called 'Hotfix Sprint' in the Sprint Cadence starting March 3 and ending March 10, 2026. Then assign the Safari login bug and the email notification timezone issue to both the new milestone and new iteration.",
+    "verify": "real-tasks/task_h96.py"
+  },
+  {
+    "id": "task_h97",
+    "difficulty": "hard",
+    "instruction": "For all open issues in the API v3 Migration epic, replace the 'component::api' label with 'component::backend'.",
+    "verify": "real-tasks/task_h97.py"
+  },
+  {
+    "id": "task_h98",
+    "difficulty": "hard",
+    "instruction": "The two authentication-related issues — the one about 2FA with TOTP and the one about JWT migration — are both in the v5.0 Enterprise Edition milestone. Move them to the v4.2 - Security Hardening milestone instead and add the 'priority::high' label to both.",
+    "verify": "real-tasks/task_h98.py"
+  },
+  {
+    "id": "task_h99",
+    "difficulty": "hard",
+    "instruction": "Change the Release Cycle cadence to automatic with a duration of 4 weeks and 2 upcoming iterations. Then create a new iteration called 'Release 4.1 Alpha' in that cadence starting March 15 and ending April 11, 2026.",
+    "verify": "real-tasks/task_h99.py"
+  },
+  {
+    "id": "task_h100",
+    "difficulty": "hard",
+    "instruction": "Create a new label called 'in-review' with color #7b68ee. Create a new board called 'Review Board' with a list for that label. Then add the 'in-review' label to the GraphQL gateway issue and the dark mode issue.",
+    "verify": "real-tasks/task_h100.py"
+  }
+]

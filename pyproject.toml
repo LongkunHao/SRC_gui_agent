@@ -1,0 +1,15 @@
+[project]
+name = "src-gui-agent"
+version = "0.1.0"
+description = "Speculative Rollback Correction (SRC): a branch-level imitation learning framework for GUI agents"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "browser-use>=0.11.9",
+    "Pillow>=10.0",
+    "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+vision = ["google-genai", "openai", "anthropic"]
+dashboard = ["rich>=13.0"]

@@ -1,0 +1,342 @@
+[
+  {
+    "id": "task_1",
+    "instruction": "Create a new contact with first name 'Alice', last name 'Wonderland', and email 'alice@wonderland.com'.",
+    "verify": "function-tasks/task_1.py"
+  },
+  {
+    "id": "task_2",
+    "instruction": "Create a new contact with first name 'Bob', last name 'Builder', email 'bob@builder.io', phone '+1 (555) 123-4567', company 'BuildCo', and job title 'Foreman'.",
+    "verify": "function-tasks/task_2.py"
+  },
+  {
+    "id": "task_3",
+    "instruction": "Edit the contact Sarah Chen's job title to 'Chief Product Officer'.",
+    "verify": "function-tasks/task_3.py"
+  },
+  {
+    "id": "task_4",
+    "instruction": "Edit the contact Marcus Williams's company to 'DesignHub International'.",
+    "verify": "function-tasks/task_4.py"
+  },
+  {
+    "id": "task_5",
+    "instruction": "Edit the contact Jake Morrison's phone number to '+1 (415) 999-8888'.",
+    "verify": "function-tasks/task_5.py"
+  },
+  {
+    "id": "task_6",
+    "instruction": "Delete the contact Tom Bradley.",
+    "verify": "function-tasks/task_6.py"
+  },
+  {
+    "id": "task_7",
+    "instruction": "Delete the contact Tony Russo.",
+    "verify": "function-tasks/task_7.py"
+  },
+  {
+    "id": "task_8",
+    "instruction": "Star the contact James O'Brien.",
+    "verify": "function-tasks/task_8.py"
+  },
+  {
+    "id": "task_9",
+    "instruction": "Unstar the contact Sarah Chen.",
+    "verify": "function-tasks/task_9.py"
+  },
+  {
+    "id": "task_10",
+    "instruction": "Star the contact David Kim.",
+    "verify": "function-tasks/task_10.py"
+  },
+  {
+    "id": "task_11",
+    "instruction": "Edit the contact Emily Rodriguez's notes to 'Key investor contact for Series C round.'.",
+    "verify": "function-tasks/task_11.py"
+  },
+  {
+    "id": "task_12",
+    "instruction": "Edit the contact Priya Sharma's secondary email to 'priya.personal@outlook.com'.",
+    "verify": "function-tasks/task_12.py"
+  },
+  {
+    "id": "task_13",
+    "instruction": "Edit the contact Dr. Patricia Nguyen's address to '1200 California St, San Francisco, CA 94109'.",
+    "verify": "function-tasks/task_13.py"
+  },
+  {
+    "id": "task_14",
+    "instruction": "Create a new contact label named 'Investors' with the color '#FF5722' (the deep orange color swatch).",
+    "verify": "function-tasks/task_14.py"
+  },
+  {
+    "id": "task_15",
+    "instruction": "Create a new contact label named 'Conference' with the default color.",
+    "verify": "function-tasks/task_15.py"
+  },
+  {
+    "id": "task_16",
+    "instruction": "Rename the 'Gym Buddies' label to 'Fitness Friends'.",
+    "verify": "function-tasks/task_16.py"
+  },
+  {
+    "id": "task_17",
+    "instruction": "Delete the 'Book Club' label.",
+    "verify": "function-tasks/task_17.py"
+  },
+  {
+    "id": "task_18",
+    "instruction": "Change the color of the 'Family' label to '#34A853' (green).",
+    "verify": "function-tasks/task_18.py"
+  },
+  {
+    "id": "task_19",
+    "instruction": "Delete the 'Travel Contacts' label.",
+    "verify": "function-tasks/task_19.py"
+  },
+  {
+    "id": "task_20",
+    "instruction": "Add the 'Friends' label to the contact David Kim.",
+    "verify": "function-tasks/task_20.py"
+  },
+  {
+    "id": "task_21",
+    "instruction": "Remove the 'Work' label from the contact Sarah Chen.",
+    "verify": "function-tasks/task_21.py"
+  },
+  {
+    "id": "task_22",
+    "instruction": "Add the 'VIP Clients' label to the contact Kevin Zhao.",
+    "verify": "function-tasks/task_22.py"
+  },
+  {
+    "id": "task_23",
+    "instruction": "Remove the 'Gym Buddies' label from the contact Chris Evans.",
+    "verify": "function-tasks/task_23.py"
+  },
+  {
+    "id": "task_24",
+    "instruction": "Move the other contact 'Jason Blake' (jason.blake@salesforce.com) to your main contacts.",
+    "verify": "function-tasks/task_24.py"
+  },
+  {
+    "id": "task_25",
+    "instruction": "Delete the other contact 'Vercel Support' (support@vercel.com).",
+    "verify": "function-tasks/task_25.py"
+  },
+  {
+    "id": "task_26",
+    "instruction": "Move the other contact 'Tina Marshall' (tina.marshall@designhub.com) to your main contacts.",
+    "verify": "function-tasks/task_26.py"
+  },
+  {
+    "id": "task_27",
+    "instruction": "Delete the other contact 'Chloe Bennett' (chloe.b@sequoiacap.com).",
+    "verify": "function-tasks/task_27.py"
+  },
+  {
+    "id": "task_28",
+    "instruction": "Merge the suggested duplicate contacts for Priya Sharma and Raj Kapoor (same company: CloudNine).",
+    "verify": "function-tasks/task_28.py"
+  },
+  {
+    "id": "task_29",
+    "instruction": "Dismiss the merge suggestion for Sophie Laurent and Elena Volkov.",
+    "verify": "function-tasks/task_29.py"
+  },
+  {
+    "id": "task_30",
+    "instruction": "Add a new delegate with email 'assistant@company.com' and name 'Office Assistant'.",
+    "verify": "function-tasks/task_30.py"
+  },
+  {
+    "id": "task_31",
+    "instruction": "Remove the delegate Maya Patel.",
+    "verify": "function-tasks/task_31.py"
+  },
+  {
+    "id": "task_32",
+    "instruction": "Remove the expired delegate Jake Morrison.",
+    "verify": "function-tasks/task_32.py"
+  },
+  {
+    "id": "task_33",
+    "instruction": "Remove the pending delegate Priya Sharma.",
+    "verify": "function-tasks/task_33.py"
+  },
+  {
+    "id": "task_34",
+    "instruction": "Unlink the Google Search service in the Linked Services page.",
+    "verify": "function-tasks/task_34.py"
+  },
+  {
+    "id": "task_35",
+    "instruction": "Link the Google Ads service in the Linked Services page.",
+    "verify": "function-tasks/task_35.py"
+  },
+  {
+    "id": "task_36",
+    "instruction": "Link the Google Shopping service in the Linked Services page.",
+    "verify": "function-tasks/task_36.py"
+  },
+  {
+    "id": "task_37",
+    "instruction": "Unlink the YouTube service in the Linked Services page.",
+    "verify": "function-tasks/task_37.py"
+  },
+  {
+    "id": "task_38",
+    "instruction": "In Settings > General, change the contact sort order to 'Last name'.",
+    "verify": "function-tasks/task_38.py"
+  },
+  {
+    "id": "task_39",
+    "instruction": "In Settings > General, change the name display order to 'Last name first'.",
+    "verify": "function-tasks/task_39.py"
+  },
+  {
+    "id": "task_40",
+    "instruction": "In Settings > General, turn off the 'Auto-save contacts' setting.",
+    "verify": "function-tasks/task_40.py"
+  },
+  {
+    "id": "task_41",
+    "instruction": "In Settings > General, turn off the 'Share Google Docs in email' collaboration setting.",
+    "verify": "function-tasks/task_41.py"
+  },
+  {
+    "id": "task_42",
+    "instruction": "In Settings > General, turn off the 'Show contact info on emails' collaboration setting.",
+    "verify": "function-tasks/task_42.py"
+  },
+  {
+    "id": "task_43",
+    "instruction": "In Settings > Account, change the user's name to 'Alexander Johnson'.",
+    "verify": "function-tasks/task_43.py"
+  },
+  {
+    "id": "task_44",
+    "instruction": "In Settings > Account, change the recovery email to 'alex.new.recovery@proton.me'.",
+    "verify": "function-tasks/task_44.py"
+  },
+  {
+    "id": "task_45",
+    "instruction": "In Settings > Account, change the recovery phone to '+1 (415) 555-9999'.",
+    "verify": "function-tasks/task_45.py"
+  },
+  {
+    "id": "task_46",
+    "instruction": "In Settings > Account, turn off the 'Remember password' login setting.",
+    "verify": "function-tasks/task_46.py"
+  },
+  {
+    "id": "task_47",
+    "instruction": "In Settings > Account, turn off the 'Auto sign-in' login setting.",
+    "verify": "function-tasks/task_47.py"
+  },
+  {
+    "id": "task_48",
+    "instruction": "In Settings > Account, turn off the 'Two-factor authentication' login setting.",
+    "verify": "function-tasks/task_48.py"
+  },
+  {
+    "id": "task_49",
+    "instruction": "In Settings > Account, change the two-factor authentication method to 'Text message (SMS)'.",
+    "verify": "function-tasks/task_49.py"
+  },
+  {
+    "id": "task_50",
+    "instruction": "In Settings > Account, change the two-factor authentication method to 'Security key'.",
+    "verify": "function-tasks/task_50.py"
+  },
+  {
+    "id": "task_51",
+    "instruction": "In Settings > Privacy, change the profile photo visibility to 'Contacts only'.",
+    "verify": "function-tasks/task_51.py"
+  },
+  {
+    "id": "task_52",
+    "instruction": "In Settings > Privacy, change the email visibility to 'Nobody'.",
+    "verify": "function-tasks/task_52.py"
+  },
+  {
+    "id": "task_53",
+    "instruction": "In Settings > Privacy, change the phone number visibility to 'Everyone'.",
+    "verify": "function-tasks/task_53.py"
+  },
+  {
+    "id": "task_54",
+    "instruction": "In Settings > Privacy, turn off 'Activity tracking'.",
+    "verify": "function-tasks/task_54.py"
+  },
+  {
+    "id": "task_55",
+    "instruction": "In Settings > Notifications, turn off the 'Delegate activity' notification.",
+    "verify": "function-tasks/task_55.py"
+  },
+  {
+    "id": "task_56",
+    "instruction": "In Settings > Notifications, turn on the 'Contact changes' notification.",
+    "verify": "function-tasks/task_56.py"
+  },
+  {
+    "id": "task_57",
+    "instruction": "In Settings > Notifications, turn off the 'Security alerts' notification.",
+    "verify": "function-tasks/task_57.py"
+  },
+  {
+    "id": "task_58",
+    "instruction": "In Settings > Notifications, turn off the 'Linked service updates' notification.",
+    "verify": "function-tasks/task_58.py"
+  },
+  {
+    "id": "task_59",
+    "instruction": "In Settings > Sync, turn off the 'Contacts sync' setting.",
+    "verify": "function-tasks/task_59.py"
+  },
+  {
+    "id": "task_60",
+    "instruction": "In Settings > Sync, turn off the 'Calendar sync' setting.",
+    "verify": "function-tasks/task_60.py"
+  },
+  {
+    "id": "task_61",
+    "instruction": "In Settings > Sync, turn off the 'Email sync' setting.",
+    "verify": "function-tasks/task_61.py"
+  },
+  {
+    "id": "task_62",
+    "instruction": "In Settings > Sync, uncheck the 'I have transitioned off Google Sync' acknowledgment.",
+    "verify": "function-tasks/task_62.py"
+  },
+  {
+    "id": "task_63",
+    "instruction": "Edit the contact Ben Walker's website to 'https://benwalker.com'.",
+    "verify": "function-tasks/task_63.py"
+  },
+  {
+    "id": "task_64",
+    "instruction": "Edit the contact Samantha Lee's birthday to '1993-05-20'.",
+    "verify": "function-tasks/task_64.py"
+  },
+  {
+    "id": "task_65",
+    "instruction": "In Settings > Account, change the user's phone number to '+1 (650) 555-7777'.",
+    "verify": "function-tasks/task_65.py"
+  },
+  {
+    "id": "task_66",
+    "instruction": "Rename the 'College Alumni' label to 'University Network'.",
+    "verify": "function-tasks/task_66.py"
+  },
+  {
+    "id": "task_67",
+    "instruction": "Create a new contact with first name 'Test', last name 'User', email 'test@example.com', and assign the 'Work' label during creation.",
+    "verify": "function-tasks/task_67.py"
+  },
+  {
+    "id": "task_68",
+    "instruction": "In Settings > Privacy, change the profile photo visibility to 'Nobody'.",
+    "verify": "function-tasks/task_68.py"
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "id": "task_e1",
+    "difficulty": "easy",
+    "instruction": "Approve invoice INV-0008 for Metro Print Solutions.",
+    "verify": "real-tasks/task_e1.py"
+  },
+  {
+    "id": "task_e2",
+    "difficulty": "easy",
+    "instruction": "Void the overdue invoice sent to Bloom & Branch Florists for $35,937.50.",
+    "verify": "real-tasks/task_e2.py"
+  },
+  {
+    "id": "task_e3",
+    "difficulty": "easy",
+    "instruction": "Delete the draft invoice INV-0054 for Nexus Technologies.",
+    "verify": "real-tasks/task_e3.py"
+  },
+  {
+    "id": "task_e4",
+    "difficulty": "easy",
+    "instruction": "Change the company name in settings to Kiwi Consulting Group.",
+    "verify": "real-tasks/task_e4.py"
+  },
+  {
+    "id": "task_e5",
+    "difficulty": "easy",
+    "instruction": "Update the invoice number prefix to KCL- in settings.",
+    "verify": "real-tasks/task_e5.py"
+  },
+  {
+    "id": "task_e6",
+    "difficulty": "easy",
+    "instruction": "Mark the Bright Spark Electrical draft invoice as approved.",
+    "verify": "real-tasks/task_e6.py"
+  },
+  {
+    "id": "task_e7",
+    "difficulty": "easy",
+    "instruction": "Change the email address for Ridgeway University to billing@ridgewayuni.ac.nz.",
+    "verify": "real-tasks/task_e7.py"
+  },
+  {
+    "id": "task_e8",
+    "difficulty": "easy",
+    "instruction": "Enable late payment penalties in settings.",
+    "verify": "real-tasks/task_e8.py"
+  },
+  {
+    "id": "task_e9",
+    "difficulty": "easy",
+    "instruction": "Change the default tax rate to No GST (0%) in settings.",
+    "verify": "real-tasks/task_e9.py"
+  },
+  {
+    "id": "task_e10",
+    "difficulty": "easy",
+    "instruction": "Update the phone number for Coastal Cafe Group to +64 3 441 9999.",
+    "verify": "real-tasks/task_e10.py"
+  },
+  {
+    "id": "task_e11",
+    "difficulty": "easy",
+    "instruction": "Send invoice INV-0017 to Clearwater Environmental.",
+    "verify": "real-tasks/task_e11.py"
+  },
+  {
+    "id": "task_e12",
+    "difficulty": "easy",
+    "instruction": "Change the default branding theme to Professional Blue.",
+    "verify": "real-tasks/task_e12.py"
+  },
+  {
+    "id": "task_e13",
+    "difficulty": "easy",
+    "instruction": "Update the company tax ID to NZ-98-765-432 in settings.",
+    "verify": "real-tasks/task_e13.py"
+  },
+  {
+    "id": "task_e14",
+    "difficulty": "easy",
+    "instruction": "Set the late penalty rate to 2.5% in settings.",
+    "verify": "real-tasks/task_e14.py"
+  },
+  {
+    "id": "task_e15",
+    "difficulty": "easy",
+    "instruction": "Change the billing city for Oceanview Resort & Spa to Takapuna.",
+    "verify": "real-tasks/task_e15.py"
+  },
+  {
+    "id": "task_e16",
+    "difficulty": "easy",
+    "instruction": "Set the next invoice number to 200 in settings.",
+    "verify": "real-tasks/task_e16.py"
+  },
+  {
+    "id": "task_e17",
+    "difficulty": "easy",
+    "instruction": "Change the default due date terms to 30 days after invoice date.",
+    "verify": "real-tasks/task_e17.py"
+  },
+  {
+    "id": "task_e18",
+    "difficulty": "easy",
+    "instruction": "Void invoice INV-0068 for Apex Legal Partners.",
+    "verify": "real-tasks/task_e18.py"
+  },
+  {
+    "id": "task_e19",
+    "difficulty": "easy",
+    "instruction": "Update the company email to finance@kiwiconsulting.co.nz in settings.",
+    "verify": "real-tasks/task_e19.py"
+  },
+  {
+    "id": "task_e20",
+    "difficulty": "easy",
+    "instruction": "Change the late penalty frequency to weekly in the settings.",
+    "verify": "real-tasks/task_e20.py"
+  },
+  {
+    "id": "task_m1",
+    "difficulty": "medium",
+    "instruction": "Record a full payment for invoice INV-0007 to Green Valley Organics using the Business Cheque Account.",
+    "verify": "real-tasks/task_m1.py"
+  },
+  {
+    "id": "task_m2",
+    "difficulty": "medium",
+    "instruction": "Create a new contact called Southern Cross Logistics with email logistics@southerncross.co.nz, phone +64 9 300 1234, and billing address at 10 Customs Street, Auckland, Auckland, 1010, New Zealand.",
+    "verify": "real-tasks/task_m2.py"
+  },
+  {
+    "id": "task_m3",
+    "difficulty": "medium",
+    "instruction": "Copy invoice INV-0009 for Pinnacle Construction Co and save the copy as a draft.",
+    "verify": "real-tasks/task_m3.py"
+  },
+  {
+    "id": "task_m4",
+    "difficulty": "medium",
+    "instruction": "Record a partial payment of $2,000 against the overdue invoice INV-0039 for Pacific Timber Supplies using the Business Cheque Account.",
+    "verify": "real-tasks/task_m4.py"
+  },
+  {
+    "id": "task_m5",
+    "difficulty": "medium",
+    "instruction": "Update the reference on draft invoice INV-0042 for Clearwater Environmental to WO-55555.",
+    "verify": "real-tasks/task_m5.py"
+  },
+  {
+    "id": "task_m6",
+    "difficulty": "medium",
+    "instruction": "Change Harmony Music Academy's billing address to 100 Willis Street, Wellington, Wellington, 6011, New Zealand.",
+    "verify": "real-tasks/task_m6.py"
+  },
+  {
+    "id": "task_m7",
+    "difficulty": "medium",
+    "instruction": "Update the email template subject in settings to Invoice {InvoiceNumber} - Kiwi Consulting Group.",
+    "verify": "real-tasks/task_m7.py"
+  },
+  {
+    "id": "task_m8",
+    "difficulty": "medium",
+    "instruction": "Approve invoice INV-0038 for Harmony Music Academy and then send it.",
+    "verify": "real-tasks/task_m8.py"
+  },
+  {
+    "id": "task_m9",
+    "difficulty": "medium",
+    "instruction": "Add a line item to draft invoice INV-0083 for Metro Print Solutions: description 'Express delivery surcharge', quantity 1, unit price $150.",
+    "verify": "real-tasks/task_m9.py"
+  },
+  {
+    "id": "task_m10",
+    "difficulty": "medium",
+    "instruction": "Create a new draft invoice for Ridgeway University with one line item: 'Annual subscription renewal' for quantity 1 at $4,500, dated 2026-03-18 and due 2026-04-17.",
+    "verify": "real-tasks/task_m10.py"
+  },
+  {
+    "id": "task_m11",
+    "difficulty": "medium",
+    "instruction": "Record a full payment for the overdue invoice INV-0087 to Swift Courier Services using the Business Cheque Account.",
+    "verify": "real-tasks/task_m11.py"
+  },
+  {
+    "id": "task_m12",
+    "difficulty": "medium",
+    "instruction": "Update the currency on draft invoice INV-0020 for Heritage Craft Brewery to NZD.",
+    "verify": "real-tasks/task_m12.py"
+  },
+  {
+    "id": "task_m13",
+    "difficulty": "medium",
+    "instruction": "Change the branding theme on draft invoice INV-0084 for Pinnacle Construction to Bold Corporate.",
+    "verify": "real-tasks/task_m13.py"
+  },
+  {
+    "id": "task_m14",
+    "difficulty": "medium",
+    "instruction": "Update DataFlow Analytics Inc's tax ID to US-95-7654321.",
+    "verify": "real-tasks/task_m14.py"
+  },
+  {
+    "id": "task_m15",
+    "difficulty": "medium",
+    "instruction": "Record the remaining balance as a payment on the partially-paid invoice INV-0034 for Pinnacle Construction Co via the Business Cheque Account.",
+    "verify": "real-tasks/task_m15.py"
+  },
+  {
+    "id": "task_m16",
+    "difficulty": "medium",
+    "instruction": "Change the invoice number padding to 5 digits and the prefix to KINV- in settings.",
+    "verify": "real-tasks/task_m16.py"
+  },
+  {
+    "id": "task_m17",
+    "difficulty": "medium",
+    "instruction": "Approve all invoices currently awaiting approval from Hamilton Plumbing Services.",
+    "verify": "real-tasks/task_m17.py"
+  },
+  {
+    "id": "task_m18",
+    "difficulty": "medium",
+    "instruction": "Update the notes on draft invoice INV-0093 for Apex Legal Partners to Payment due strictly within 14 days.",
+    "verify": "real-tasks/task_m18.py"
+  },
+  {
+    "id": "task_m19",
+    "difficulty": "medium",
+    "instruction": "Create a new contact called Horizon Architecture Studio with email hello@horizonarch.co.nz and billing address at 200 Parnell Road, Auckland, Auckland, 1052, New Zealand.",
+    "verify": "real-tasks/task_m19.py"
+  },
+  {
+    "id": "task_m20",
+    "difficulty": "medium",
+    "instruction": "Change the default email body in settings to: Dear {ContactName},\n\nAttached is invoice {InvoiceNumber} for {Total}, due {DueDate}.\n\nThank you,\nKiwi Consulting Group",
+    "verify": "real-tasks/task_m20.py"
+  },
+  {
+    "id": "task_h1",
+    "difficulty": "hard",
+    "instruction": "Void all overdue invoices for Bloom & Branch Florists.",
+    "verify": "real-tasks/task_h1.py"
+  },
+  {
+    "id": "task_h2",
+    "difficulty": "hard",
+    "instruction": "Create a new invoice for Nexus Technologies Ltd with three line items: 'Cloud migration services' for 40 hours at $200/hr, 'Database optimization' for 16 hours at $250/hr, and 'Security audit' for 8 hours at $300/hr. Use the issue date 2026-03-18, due date 2026-04-07, reference PROJ-NEXUS-01, and approve it for sending.",
+    "verify": "real-tasks/task_h2.py"
+  },
+  {
+    "id": "task_h3",
+    "difficulty": "hard",
+    "instruction": "Record full payments for all overdue invoices from Nexus Technologies Ltd using the Business Cheque Account.",
+    "verify": "real-tasks/task_h3.py"
+  },
+  {
+    "id": "task_h4",
+    "difficulty": "hard",
+    "instruction": "Delete all draft invoices that are in AUD.",
+    "verify": "real-tasks/task_h4.py"
+  },
+  {
+    "id": "task_h5",
+    "difficulty": "hard",
+    "instruction": "Update the company details in settings: name to Kiwi Consulting Group, email to hello@kiwiconsulting.co.nz, phone to +64 9 555 0200, and address to 100 Queen Street, Level 10, Auckland 1010, New Zealand.",
+    "verify": "real-tasks/task_h5.py"
+  },
+  {
+    "id": "task_h6",
+    "difficulty": "hard",
+    "instruction": "Create a new contact Tasman Engineering Ltd (email accounts@tasmaneng.co.nz, phone +64 3 545 1234, address: 25 Trafalgar Street, Nelson, Nelson, 7010, New Zealand, tax ID NZ-45-678-901) and then create a draft invoice for them with two line items: 'Structural engineering consultation' at 24 hours x $180/hr and 'Site inspection report' at 1 x $750, dated 2026-03-18 due 2026-04-17.",
+    "verify": "real-tasks/task_h6.py"
+  },
+  {
+    "id": "task_h7",
+    "difficulty": "hard",
+    "instruction": "Approve and send all invoices that are currently awaiting approval and denominated in NZD.",
+    "verify": "real-tasks/task_h7.py"
+  },
+  {
+    "id": "task_h8",
+    "difficulty": "hard",
+    "instruction": "Record full payment for the overdue invoice INV-0059 from Pinnacle Construction Co and also INV-0089 from Pacific Timber Supplies, both via the Business Cheque Account.",
+    "verify": "real-tasks/task_h8.py"
+  },
+  {
+    "id": "task_h9",
+    "difficulty": "hard",
+    "instruction": "Copy invoice INV-0001 for Ridgeway University, change the contact on the copy to Meridian Health Clinic, and save it as a draft.",
+    "verify": "real-tasks/task_h9.py"
+  },
+  {
+    "id": "task_h10",
+    "difficulty": "hard",
+    "instruction": "Change the settings to use invoice prefix RC-, next number 500, 5-digit padding, default branding theme Minimal Clean, and default tax rate Zero Rated (0%).",
+    "verify": "real-tasks/task_h10.py"
+  },
+  {
+    "id": "task_h11",
+    "difficulty": "hard",
+    "instruction": "Record the remaining balance on all partially-paid invoices using the Business Cheque Account.",
+    "verify": "real-tasks/task_h11.py"
+  },
+  {
+    "id": "task_h12",
+    "difficulty": "hard",
+    "instruction": "Create a new invoice for Ironclad Security Systems with line items 'CCTV installation - 8 cameras' quantity 8 at $450 each and 'Annual monitoring subscription' quantity 1 at $2,400, dated 2026-03-18, due 2026-04-17, reference SEC-2026-001, branding theme Bold Corporate. Approve and send it.",
+    "verify": "real-tasks/task_h12.py"
+  },
+  {
+    "id": "task_h13",
+    "difficulty": "hard",
+    "instruction": "Void all overdue invoices that have a reference starting with PROJ-.",
+    "verify": "real-tasks/task_h13.py"
+  },
+  {
+    "id": "task_h14",
+    "difficulty": "hard",
+    "instruction": "Update billing addresses for all Wellington-based contacts to use postal code 6012 instead of 6011.",
+    "verify": "real-tasks/task_h14.py"
+  },
+  {
+    "id": "task_h15",
+    "difficulty": "hard",
+    "instruction": "Delete all draft invoices for Metro Print Solutions and Apex Legal Partners.",
+    "verify": "real-tasks/task_h15.py"
+  },
+  {
+    "id": "task_h16",
+    "difficulty": "hard",
+    "instruction": "Create a new draft invoice for CloudBridge Software in AUD with line items: 'API integration development' 60 hours at $175/hr and 'Technical documentation' 20 hours at $120/hr. Issue date 2026-03-18, due 2026-04-17, reference CB-INT-001.",
+    "verify": "real-tasks/task_h16.py"
+  },
+  {
+    "id": "task_h17",
+    "difficulty": "hard",
+    "instruction": "Approve invoice INV-0066 for Ironclad Security Systems, then record a payment of $30,000 against it via the Business Cheque Account.",
+    "verify": "real-tasks/task_h17.py"
+  },
+  {
+    "id": "task_h18",
+    "difficulty": "hard",
+    "instruction": "Update the settings to enable late penalties at 3% weekly, change the default due date terms to 14 days, and set the default branding theme to Bold Corporate.",
+    "verify": "real-tasks/task_h18.py"
+  },
+  {
+    "id": "task_h19",
+    "difficulty": "hard",
+    "instruction": "Record full payments for all three overdue invoices that have a reference containing the text REF or QUO, using the Business Cheque Account.",
+    "verify": "real-tasks/task_h19.py"
+  },
+  {
+    "id": "task_h20",
+    "difficulty": "hard",
+    "instruction": "Create a new contact Pacific Digital Solutions (email billing@pacificdigital.co.nz, phone +64 9 888 7777, address: 55 Victoria Street West, Auckland, Auckland, 1010, New Zealand) and create a draft invoice for them with three line items: 'Website redesign' 1 x $8,000, 'SEO package - 6 months' 6 x $500, and 'Content writing' 10 x $150, with issue date 2026-03-18 and due date 2026-04-17.",
+    "verify": "real-tasks/task_h20.py"
+  },
+  {
+    "id": "task_h21",
+    "difficulty": "hard",
+    "instruction": "Delete every draft invoice that belongs to a contact whose billing city is Auckland.",
+    "verify": "real-tasks/task_h21.py"
+  },
+  {
+    "id": "task_h22",
+    "difficulty": "hard",
+    "instruction": "Find the overdue invoice with the largest total amount and record a partial payment of exactly half that total using the Business Cheque Account.",
+    "verify": "real-tasks/task_h22.py"
+  },
+  {
+    "id": "task_h23",
+    "difficulty": "hard",
+    "instruction": "Approve every invoice that is currently awaiting approval and has a reference starting with 'PO-'.",
+    "verify": "real-tasks/task_h23.py"
+  },
+  {
+    "id": "task_h24",
+    "difficulty": "hard",
+    "instruction": "Create a new contact 'Alpine Adventure Tours' (email bookings@alpineadventure.co.nz, phone +64 3 442 5678, billing address: 30 Camp Street, Queenstown, Otago, 9300, New Zealand, tax ID NZ-55-123-456). Then create an approved invoice for them with two line items: 'Guided tour package' 10 x $350 and 'Equipment hire - 3 days' 3 x $200, issue date 2026-03-18, due 2026-04-17, reference TOUR-2026-01.",
+    "verify": "real-tasks/task_h24.py"
+  },
+  {
+    "id": "task_h25",
+    "difficulty": "hard",
+    "instruction": "Record a full payment for the oldest overdue invoice (the one with the earliest issue date) using the Business Savings Account.",
+    "verify": "real-tasks/task_h25.py"
+  },
+  {
+    "id": "task_h26",
+    "difficulty": "hard",
+    "instruction": "Void every overdue invoice that is denominated in AUD.",
+    "verify": "real-tasks/task_h26.py"
+  },
+  {
+    "id": "task_h27",
+    "difficulty": "hard",
+    "instruction": "A contact whose billing address is on Ponsonby Road has unpaid overdue invoices. Record full payments for all of them using the Business Cheque Account.",
+    "verify": "real-tasks/task_h27.py"
+  },
+  {
+    "id": "task_h28",
+    "difficulty": "hard",
+    "instruction": "Copy the paid invoice with the highest total amount and save the copy as a draft.",
+    "verify": "real-tasks/task_h28.py"
+  },
+  {
+    "id": "task_h29",
+    "difficulty": "hard",
+    "instruction": "Change the default tax rate to AU GST on Income (10%) in settings, then create a new draft invoice for CloudBridge Software in AUD with one line item: 'Quarterly SaaS license' at 1 x $9,600, dated 2026-03-18, due 2026-06-18.",
+    "verify": "real-tasks/task_h29.py"
+  },
+  {
+    "id": "task_h30",
+    "difficulty": "hard",
+    "instruction": "For every contact that has at least one overdue invoice, approve all of their invoices that are still awaiting approval.",
+    "verify": "real-tasks/task_h30.py"
+  },
+  {
+    "id": "task_h31",
+    "difficulty": "hard",
+    "instruction": "Look at all invoices for Green Valley Organics: void any that are overdue, approve any that are awaiting approval, and delete any that are still in draft.",
+    "verify": "real-tasks/task_h31.py"
+  },
+  {
+    "id": "task_h32",
+    "difficulty": "hard",
+    "instruction": "Find the contact whose billing country is the United States and update their billing street address to '600 Market Street, Suite 500'.",
+    "verify": "real-tasks/task_h32.py"
+  },
+  {
+    "id": "task_h33",
+    "difficulty": "hard",
+    "instruction": "There are two contacts based in Hamilton. Update both of their billing regions from 'Waikato' to 'Waikato Region'.",
+    "verify": "real-tasks/task_h33.py"
+  },
+  {
+    "id": "task_h34",
+    "difficulty": "hard",
+    "instruction": "Record full payments for all overdue invoices belonging to contacts in the Auckland region, using the Business Cheque Account.",
+    "verify": "real-tasks/task_h34.py"
+  },
+  {
+    "id": "task_h35",
+    "difficulty": "hard",
+    "instruction": "Find the awaiting-approval invoice with reference 'PROJ-ALPHA', add a new line item 'Project closeout documentation' at 5 x $120, then approve and send the invoice.",
+    "verify": "real-tasks/task_h35.py"
+  },
+  {
+    "id": "task_h36",
+    "difficulty": "hard",
+    "instruction": "Find the contact based in Australia and create a new AUD invoice for them with two line items: 'Architecture review' at 8 hours x $300/hr and 'Performance testing' at 16 hours x $200/hr. Use issue date 2026-03-18, due date 2026-05-18, reference AU-REVIEW-001, and approve the invoice.",
+    "verify": "real-tasks/task_h36.py"
+  },
+  {
+    "id": "task_h37",
+    "difficulty": "hard",
+    "instruction": "Delete all draft invoices that have an empty reference field.",
+    "verify": "real-tasks/task_h37.py"
+  },
+  {
+    "id": "task_h38",
+    "difficulty": "hard",
+    "instruction": "Find the awaiting-payment invoice with the largest amount due. Then navigate to that invoice's contact and change their phone number to +64 9 999 0000.",
+    "verify": "real-tasks/task_h38.py"
+  },
+  {
+    "id": "task_h39",
+    "difficulty": "hard",
+    "instruction": "For every invoice in draft or awaiting-approval status that has a reference containing 'QUO', update the notes to 'Quote-linked invoice - review before sending'.",
+    "verify": "real-tasks/task_h39.py"
+  },
+  {
+    "id": "task_h40",
+    "difficulty": "hard",
+    "instruction": "Create a new contact 'Summit Events Ltd' (email events@summitevents.co.nz, phone +64 9 555 3456, billing address: 45 Queen Street, Auckland, Auckland, 1010, New Zealand). Create an invoice for them with three line items: 'Venue hire - full day' 1 x $2,500, 'Catering package - 50 guests' 50 x $85, and 'AV equipment rental' 1 x $1,200, dated 2026-03-18 due 2026-04-17, reference EVT-2026-001. Approve and send it.",
+    "verify": "real-tasks/task_h40.py"
+  },
+  {
+    "id": "task_h41",
+    "difficulty": "hard",
+    "instruction": "Find the contact based in the Canterbury region. Approve their only awaiting-approval invoice, then record the remaining balance on their partially-paid awaiting-payment invoice using the Business Cheque Account.",
+    "verify": "real-tasks/task_h41.py"
+  },
+  {
+    "id": "task_h42",
+    "difficulty": "hard",
+    "instruction": "The contact based in Nelson has a draft invoice with an empty reference. Set its reference to 'NELSON-PRIORITY-01' and then approve their awaiting-approval invoice.",
+    "verify": "real-tasks/task_h42.py"
+  },
+  {
+    "id": "task_h43",
+    "difficulty": "hard",
+    "instruction": "Approve all invoices that are currently awaiting approval and denominated in NZD. For any awaiting-approval invoices in other currencies, void them instead.",
+    "verify": "real-tasks/task_h43.py"
+  },
+  {
+    "id": "task_h44",
+    "difficulty": "hard",
+    "instruction": "Change the invoice prefix to 'NZ-', the next number to 1000, and the zero padding to 5 digits in settings. Then create a new draft invoice for Bloom & Branch Florists with one line item: 'Brand refresh consultation' at 1 x $3,500, issue date 2026-03-18, due date 2026-04-17.",
+    "verify": "real-tasks/task_h44.py"
+  },
+  {
+    "id": "task_h45",
+    "difficulty": "hard",
+    "instruction": "Record a full payment using the Business Cheque Account for every overdue invoice that has four or more line items.",
+    "verify": "real-tasks/task_h45.py"
+  },
+  {
+    "id": "task_h46",
+    "difficulty": "hard",
+    "instruction": "Two contacts are in the Bay of Plenty region. For the one whose name comes first alphabetically, record full payment on all their overdue invoices via the Business Cheque Account.",
+    "verify": "real-tasks/task_h46.py"
+  },
+  {
+    "id": "task_h47",
+    "difficulty": "hard",
+    "instruction": "Copy the highest-numbered paid invoice for Ironclad Security Systems, change the contact on the copy to Heritage Craft Brewery, and approve the copy.",
+    "verify": "real-tasks/task_h47.py"
+  },
+  {
+    "id": "task_h48",
+    "difficulty": "hard",
+    "instruction": "Void every overdue invoice whose total amount exceeds $10,000. Leave the smaller overdue invoices untouched.",
+    "verify": "real-tasks/task_h48.py"
+  },
+  {
+    "id": "task_h49",
+    "difficulty": "hard",
+    "instruction": "Enable late payment penalties at 5% daily in settings, then update the notes on both draft invoices for Metro Print Solutions to 'Late penalty terms: 5% daily surcharge applies'.",
+    "verify": "real-tasks/task_h49.py"
+  },
+  {
+    "id": "task_h50",
+    "difficulty": "hard",
+    "instruction": "Record a partial payment of exactly $1,000 on every overdue invoice in the system, using the Business Cheque Account.",
+    "verify": "real-tasks/task_h50.py"
+  },
+  {
+    "id": "task_h51",
+    "difficulty": "hard",
+    "instruction": "Void all overdue invoices whose reference starts with 'JOB-'. Then change the company address in settings to '50 Shortland Street, Level 15, Auckland 1010, New Zealand'.",
+    "verify": "real-tasks/task_h51.py"
+  },
+  {
+    "id": "task_h52",
+    "difficulty": "hard",
+    "instruction": "Find the three awaiting-payment invoices with the highest total amounts. Record a $1,000 partial payment against each one using the Business Cheque Account.",
+    "verify": "real-tasks/task_h52.py"
+  },
+  {
+    "id": "task_h53",
+    "difficulty": "hard",
+    "instruction": "Three contacts have billing addresses in Wellington. For the one whose name comes last alphabetically, void all their overdue invoices.",
+    "verify": "real-tasks/task_h53.py"
+  },
+  {
+    "id": "task_h54",
+    "difficulty": "hard",
+    "instruction": "Create a new contact 'Kaikoura Marine Research' (email research@kaikouramarine.co.nz, phone +64 3 319 8000, address: 5 Beach Road, Kaikoura, Canterbury, 7300, New Zealand, tax ID NZ-62-789-012). Then create a USD invoice for them with two line items: 'Marine survey equipment hire' 5 x $800 and 'Data analysis report' 1 x $3,200, issue date 2026-03-18, due 2026-05-18, reference MR-2026-001, and approve it.",
+    "verify": "real-tasks/task_h54.py"
+  },
+  {
+    "id": "task_h55",
+    "difficulty": "hard",
+    "instruction": "Sort all overdue invoices by issue date, most recent first. Void the one with the most recent issue date, and record a full payment on the one with the second most recent issue date using the Business Cheque Account.",
+    "verify": "real-tasks/task_h55.py"
+  },
+  {
+    "id": "task_h56",
+    "difficulty": "hard",
+    "instruction": "Find the contact based in Dunedin. Delete their draft invoice, approve their awaiting-approval invoice, and record full payment on their awaiting-payment invoice via the Business Cheque Account.",
+    "verify": "real-tasks/task_h56.py"
+  },
+  {
+    "id": "task_h57",
+    "difficulty": "hard",
+    "instruction": "Delete every draft invoice whose total amount exceeds $10,000.",
+    "verify": "real-tasks/task_h57.py"
+  },
+  {
+    "id": "task_h58",
+    "difficulty": "hard",
+    "instruction": "Record full payment on the overdue invoice INV-0039 for Pacific Timber Supplies using the Business Cheque Account, then create a new invoice for the same contact with one line item: 'Follow-up consulting' at 10 x $200, issue date 2026-03-18, due 2026-04-17, and approve it.",
+    "verify": "real-tasks/task_h58.py"
+  },
+  {
+    "id": "task_h59",
+    "difficulty": "hard",
+    "instruction": "Find all contacts in the Waikato region. Delete any of their draft invoices and approve any of their awaiting-approval invoices.",
+    "verify": "real-tasks/task_h59.py"
+  },
+  {
+    "id": "task_h60",
+    "difficulty": "hard",
+    "instruction": "Change the default tax rate to Zero Rated (0%) in settings. Then create a new draft invoice for Ironclad Security Systems with two line items: 'Emergency callout' 1 x $750 and 'Replacement parts' 4 x $125, dated 2026-03-18, due 2026-03-25, reference EMRG-001.",
+    "verify": "real-tasks/task_h60.py"
+  },
+  {
+    "id": "task_h61",
+    "difficulty": "hard",
+    "instruction": "Find the contact whose overdue invoices sum to the highest total amount. Record a full payment on each of their overdue invoices using the Business Cheque Account.",
+    "verify": "real-tasks/task_h61.py"
+  },
+  {
+    "id": "task_h62",
+    "difficulty": "hard",
+    "instruction": "For every invoice denominated in AUD: approve those awaiting approval, and void those that are overdue. Leave all other AUD invoices unchanged.",
+    "verify": "real-tasks/task_h62.py"
+  },
+  {
+    "id": "task_h63",
+    "difficulty": "hard",
+    "instruction": "Find the awaiting-payment invoice with the smallest remaining balance. Record a full payment for it using the company credit card account.",
+    "verify": "real-tasks/task_h63.py"
+  },
+  {
+    "id": "task_h64",
+    "difficulty": "hard",
+    "instruction": "Change the invoice number prefix to 'PAY-' and set the next number to 300. Then create a new draft invoice for each contact in the Bay of Plenty region, each with one line item 'Regional service fee' at 1 \u00d7 $500, issue date 2026-03-18, due 2026-04-17.",
+    "verify": "real-tasks/task_h64.py"
+  },
+  {
+    "id": "task_h65",
+    "difficulty": "hard",
+    "instruction": "Two contacts are in the Waikato region. For the one whose name comes first alphabetically, approve all their awaiting-approval invoices and record full payment on all their overdue invoices via the Business Cheque Account. For the other, delete all their draft invoices.",
+    "verify": "real-tasks/task_h65.py"
+  },
+  {
+    "id": "task_h66",
+    "difficulty": "hard",
+    "instruction": "Look up which contact owns invoice INV-0079. Record a $2,000 partial payment on each overdue invoice belonging to that contact, using the Business Savings account.",
+    "verify": "real-tasks/task_h66.py"
+  },
+  {
+    "id": "task_h67",
+    "difficulty": "hard",
+    "instruction": "The contact who owns the single most expensive paid invoice also has an awaiting-payment invoice. Record full payment on all of that contact's awaiting-payment invoices using the Business Cheque Account.",
+    "verify": "real-tasks/task_h67.py"
+  },
+  {
+    "id": "task_h68",
+    "difficulty": "hard",
+    "instruction": "Enable late payment penalties at 2% weekly. Set the default branding theme to Minimal Clean. Then create a new contact 'Peninsula Consulting Group' (email: billing@peninsula.co.nz, phone: +64 9 445 2200, address: 75 Hurstmere Road, Takapuna, Auckland, 0622, New Zealand). Create an approved invoice for them with two line items: 'Strategic planning workshop' 2 \u00d7 $1,500 and 'Follow-up review session' 1 \u00d7 $800, issue date 2026-03-18, due 2026-04-17, reference PEN-001.",
+    "verify": "real-tasks/task_h68.py"
+  },
+  {
+    "id": "task_h69",
+    "difficulty": "hard",
+    "instruction": "Record a $500 partial payment on every overdue invoice whose reference starts with 'PROJ-', using the Business Savings account.",
+    "verify": "real-tasks/task_h69.py"
+  },
+  {
+    "id": "task_h70",
+    "difficulty": "hard",
+    "instruction": "Find the overdue invoice with the earliest due date. Void that invoice, then create a new draft invoice for the same contact with one line item 'Replacement order' at 1 \u00d7 $1,000, issue date 2026-03-18, due 2026-04-17.",
+    "verify": "real-tasks/task_h70.py"
+  },
+  {
+    "id": "task_h71",
+    "difficulty": "hard",
+    "instruction": "Two contacts have names beginning with 'S'. Approve all their awaiting-approval invoices and record full payment on any overdue invoices they have, using the Business Cheque Account.",
+    "verify": "real-tasks/task_h71.py"
+  },
+  {
+    "id": "task_h72",
+    "difficulty": "hard",
+    "instruction": "For all invoices whose reference contains 'PO-2025': approve those awaiting approval and void those that are overdue.",
+    "verify": "real-tasks/task_h72.py"
+  },
+  {
+    "id": "task_h73",
+    "difficulty": "hard",
+    "instruction": "Copy the most expensive paid DataFlow Analytics invoice to a new draft, then edit the copy to change its reference to 'RENEWAL-2026'.",
+    "verify": "real-tasks/task_h73.py"
+  },
+  {
+    "id": "task_h74",
+    "difficulty": "hard",
+    "instruction": "Find all contacts in the Wellington region. Update their billing postal code to '6140'.",
+    "verify": "real-tasks/task_h74.py"
+  },
+  {
+    "id": "task_h75",
+    "difficulty": "hard",
+    "instruction": "Record full payment on the overdue invoice INV-0107 using the Business Cheque Account. Then create a new invoice for Green Valley Organics with two line items: 'Organic produce supply Q2' 20 \u00d7 $175 and 'Delivery charges' 4 \u00d7 $85, issue date 2026-03-18, due 2026-05-18, and approve it.",
+    "verify": "real-tasks/task_h75.py"
+  },
+  {
+    "id": "task_h76",
+    "difficulty": "hard",
+    "instruction": "The only contact based in Rotorua has overdue invoices. Record full payment on each one using the Business Cheque Account, and then update that contact's phone number to '+64 7 347 0000'.",
+    "verify": "real-tasks/task_h76.py"
+  },
+  {
+    "id": "task_h77",
+    "difficulty": "hard",
+    "instruction": "Set the company tax ID to 'NZ-99-999-999' and enable late penalties at 4% daily. Then void every overdue invoice whose total is less than $5,000.",
+    "verify": "real-tasks/task_h77.py"
+  },
+  {
+    "id": "task_h78",
+    "difficulty": "hard",
+    "instruction": "The contact based in San Francisco has both awaiting-payment and awaiting-approval invoices. Record full payment on all their awaiting-payment invoices using the USD Holding account, and approve all their awaiting-approval invoices.",
+    "verify": "real-tasks/task_h78.py"
+  },
+  {
+    "id": "task_h79",
+    "difficulty": "hard",
+    "instruction": "Create a new contact 'Wairau Valley Vineyards' (email: wine@wairauvalley.co.nz, phone: +64 3 572 8800, billing address: 120 Rapaura Road, Blenheim, Marlborough, 7273, New Zealand, tax ID NZ-71-234-567). Create an AUD invoice for them with three line items: 'Premium wine tasting event' 1 \u00d7 $2,500, 'Vineyard tour - group of 20' 2 \u00d7 $600, and 'Souvenir gift packs' 20 \u00d7 $45, issue date 2026-03-18, due 2026-05-18, reference WVV-2026-001, and approve it.",
+    "verify": "real-tasks/task_h79.py"
+  },
+  {
+    "id": "task_h80",
+    "difficulty": "hard",
+    "instruction": "Change the default branding theme to Bold Corporate and the default tax rate to AU GST (10%). Then create a new AUD invoice for the only Australian contact with two line items: 'Annual support contract' 1 \u00d7 $12,000 and 'Implementation fee' 1 \u00d7 $5,000, issue date 2026-03-18, due 2026-06-18, reference AU-SUPPORT-2026. Approve and send it.",
+    "verify": "real-tasks/task_h80.py"
+  }
+]

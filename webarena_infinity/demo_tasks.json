@@ -1,0 +1,128 @@
+{
+  "_comment": "Task IDs to show in demo mode per app. Edit to customize the subset.",
+  "elation-clinical-records": [
+    "task_e1",
+    "task_e2",
+    "task_m4",
+    "task_m19",
+    "task_h1",
+    "task_h19",
+    "task_h61"
+  ],
+  "elation-patient-communication": [
+    "task_e3",
+    "task_m5",
+    "task_h4",
+    "task_h7",
+    "task_h21"
+  ],
+  "elation-prescriptions": [
+    "task_e20",
+    "task_m12",
+    "task_h1",
+    "task_h50",
+    "task_h65"
+  ],
+  "figma-text-and-typography": [
+    "task_e1"
+  ],
+  "gitlab-plan-and-track": [
+    "task_e8",
+    "task_e20",
+    "task_m7",
+    "task_m16",
+    "task_m19",
+    "task_h32",
+    "task_h39",
+    "task_h84"
+  ],
+  "gmail": [
+    "task_e6",
+    "task_e18",
+    "task_e19",
+    "task_m2",
+    "task_m14",
+    "task_m15",
+    "task_h5",
+    "task_h14",
+    "task_h15"
+  ],
+  "gmail-accounts-and-contacts": [
+    "task_e1",
+    "task_e2",
+    "task_m2",
+    "task_h12",
+    "task_h30",
+    "task_h39"
+  ],
+  "handshake-career-exploration": [
+    "task_e1",
+    "task_e16",
+    "task_m16",
+    "task_m17",
+    "task_m20",
+    "task_h1",
+    "task_h8",
+    "task_h43",
+    "task_h51",
+    "task_h128"
+  ],
+  "linear-account-settings": [
+    "task_e2",
+    "task_e9",
+    "task_m2",
+    "task_m18",
+    "task_m20",
+    "task_h1",
+    "task_h12",
+    "task_h13",
+    "task_h24"
+  ],
+  "paypal-my-wallet": [
+    "task_e1",
+    "task_e2",
+    "task_m3",
+    "task_m10",
+    "task_h6",
+    "task_h14",
+    "task_h35",
+    "task_h98"
+  ],
+  "superhuman-general": [
+    "task_e3",
+    "task_m9",
+    "task_m14",
+    "task_h20",
+    "task_h30"
+  ],
+  "xero-invoicing": [
+    "task_e1",
+    "task_e2",
+    "task_m2",
+    "task_m10",
+    "task_h1",
+    "task_h31",
+    "task_h50",
+    "task_h71"
+  ],
+  "ablations/elation-prescriptions-nodocs": [
+    "task_e1",
+    "task_e2"
+  ],
+  "ablations/figma-slides-nodocs": [
+    "task_e1",
+    "task_e2"
+  ],
+  "ablations/gitlab-plan-and-track-nodocs": [
+    "task_e1",
+    "task_e2"
+  ],
+  "ablations/gmail-accounts-and-contacts-nodocs": [
+    "task_e1",
+    "task_e2"
+  ],
+  "ablations/xero-invoicing-nodocs": [
+    "task_e1",
+    "task_e2"
+  ]
+}

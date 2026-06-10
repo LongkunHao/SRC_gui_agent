@@ -1,0 +1,277 @@
+[
+  {
+    "id": "task_1",
+    "instruction": "Add the tag 'Flu-Season' to patient Robert Henderson.",
+    "verify": "function-tasks/task_1.py"
+  },
+  {
+    "id": "task_2",
+    "instruction": "Add the priority tag '*High-Risk' to patient Emily Nakamura.",
+    "verify": "function-tasks/task_2.py"
+  },
+  {
+    "id": "task_3",
+    "instruction": "Remove the tag 'Smoker' from patient Marcus Johnson.",
+    "verify": "function-tasks/task_3.py"
+  },
+  {
+    "id": "task_4",
+    "instruction": "Add the tag 'New-Patient' to patient James Fitzgerald.",
+    "verify": "function-tasks/task_4.py"
+  },
+  {
+    "id": "task_5",
+    "instruction": "Add a new problem titled 'Acute Sinusitis' with ICD-10 code J01.90 to patient James Fitzgerald's problem list.",
+    "verify": "function-tasks/task_5.py"
+  },
+  {
+    "id": "task_6",
+    "instruction": "Edit the synopsis of the problem 'Type 2 Diabetes Mellitus' for patient Robert Henderson to 'A1C 6.8% at last check. Well-controlled on current regimen.'",
+    "verify": "function-tasks/task_6.py"
+  },
+  {
+    "id": "task_7",
+    "instruction": "Change the status of the problem 'Seasonal Allergic Rhinitis' for patient Robert Henderson from Controlled to Active.",
+    "verify": "function-tasks/task_7.py"
+  },
+  {
+    "id": "task_8",
+    "instruction": "Change the status of the problem 'Generalized Anxiety Disorder' for patient Emily Nakamura from Active to Resolved.",
+    "verify": "function-tasks/task_8.py"
+  },
+  {
+    "id": "task_9",
+    "instruction": "Change the status of the problem 'Plantar Fasciitis, Right Foot' for patient Emily Nakamura from Resolved back to Active.",
+    "verify": "function-tasks/task_9.py"
+  },
+  {
+    "id": "task_10",
+    "instruction": "Edit the onset date of the problem 'Essential Hypertension, Uncontrolled' for patient Marcus Johnson to '2015-01-10'.",
+    "verify": "function-tasks/task_10.py"
+  },
+  {
+    "id": "task_11",
+    "instruction": "Add a new problem titled 'Insomnia' with ICD-10 code G47.00 and initial status 'Controlled' to patient Sofia Rodriguez-Martinez's problem list.",
+    "verify": "function-tasks/task_11.py"
+  },
+  {
+    "id": "task_12",
+    "instruction": "Edit the title of the problem 'Chronic Low Back Pain' for patient Marcus Johnson to 'Chronic Low Back Pain with Lumbar Disc Degeneration'.",
+    "verify": "function-tasks/task_12.py"
+  },
+  {
+    "id": "task_13",
+    "instruction": "Add a new problem titled 'Urinary Tract Infection' with ICD-10 code N39.0 to patient Priya Sharma's problem list.",
+    "verify": "function-tasks/task_13.py"
+  },
+  {
+    "id": "task_14",
+    "instruction": "Change the status of the problem 'Hypothyroidism' for patient Helen Zhao from Controlled to Resolved.",
+    "verify": "function-tasks/task_14.py"
+  },
+  {
+    "id": "task_15",
+    "instruction": "Add a new Influenza (IIV4) Preservative Free vaccination record for patient Emily Nakamura. Set the manufacturer to 'Sanofi Pasteur', the method to 'Intramuscular', and the site to 'Left Deltoid'.",
+    "verify": "function-tasks/task_15.py"
+  },
+  {
+    "id": "task_16",
+    "instruction": "Add a historical Hepatitis B (Engerix-B) vaccination record for patient James Fitzgerald. Set the record type to 'Historical'.",
+    "verify": "function-tasks/task_16.py"
+  },
+  {
+    "id": "task_17",
+    "instruction": "Add a declined Influenza (IIV4) Standard vaccination record for patient David Kowalski. Set the record type to 'Declined' and add a reason 'Patient prefers not to vaccinate this season'.",
+    "verify": "function-tasks/task_17.py"
+  },
+  {
+    "id": "task_18",
+    "instruction": "Add a new Tdap (Adacel) vaccination for patient Sofia Rodriguez-Martinez with lot number 'TDP-5590' and expiration date '2027-06-30'.",
+    "verify": "function-tasks/task_18.py"
+  },
+  {
+    "id": "task_19",
+    "instruction": "Add a new Ketorolac (Toradol) injectable for patient Marcus Johnson. Mark it as an injectable that should not be sent to the registry. Set the method to 'Intramuscular' and site to 'Left Gluteal'.",
+    "verify": "function-tasks/task_19.py"
+  },
+  {
+    "id": "task_20",
+    "instruction": "Add a new DTaP (Daptacel) vaccination for patient Aaliyah Washington. Set the program to 'VFC Eligible' and funded by 'VFC'.",
+    "verify": "function-tasks/task_20.py"
+  },
+  {
+    "id": "task_21",
+    "instruction": "Add a new COVID-19 Moderna vaccination for patient Thomas Bergstrom with recall set to '3 weeks'.",
+    "verify": "function-tasks/task_21.py"
+  },
+  {
+    "id": "task_22",
+    "instruction": "Add historical vitals for patient Emily Nakamura with blood pressure 120/74, heart rate 70, and respiratory rate 16.",
+    "verify": "function-tasks/task_22.py"
+  },
+  {
+    "id": "task_23",
+    "instruction": "Add historical vitals for patient Marcus Johnson with temperature 37.2 in Celsius.",
+    "verify": "function-tasks/task_23.py"
+  },
+  {
+    "id": "task_24",
+    "instruction": "Add historical vitals for patient Helen Zhao with weight 58 in kg and height 157 in cm.",
+    "verify": "function-tasks/task_24.py"
+  },
+  {
+    "id": "task_25",
+    "instruction": "Add historical vitals for patient David Kowalski with a pain level of 6.",
+    "verify": "function-tasks/task_25.py"
+  },
+  {
+    "id": "task_26",
+    "instruction": "Add historical vitals for patient Sofia Rodriguez-Martinez with oxygen saturation (SpO2) of 98 and blood pressure 110/68.",
+    "verify": "function-tasks/task_26.py"
+  },
+  {
+    "id": "task_27",
+    "instruction": "Create a new visit note draft for patient James Fitzgerald with the reason 'New Patient Visit'.",
+    "verify": "function-tasks/task_27.py"
+  },
+  {
+    "id": "task_28",
+    "instruction": "Create a new visit note for patient Priya Sharma using the 'Simple Note' format.",
+    "verify": "function-tasks/task_28.py"
+  },
+  {
+    "id": "task_29",
+    "instruction": "Create a new visit note for patient Thomas Bergstrom with the category set to 'Telehealth'.",
+    "verify": "function-tasks/task_29.py"
+  },
+  {
+    "id": "task_30",
+    "instruction": "Create a new visit note for patient Robert Henderson using the 'Diabetes Management' template.",
+    "verify": "function-tasks/task_30.py"
+  },
+  {
+    "id": "task_31",
+    "instruction": "Sign the existing draft visit note for patient David Kowalski (the note with reason 'Follow-up: Anxiety and Back Pain').",
+    "verify": "function-tasks/task_31.py"
+  },
+  {
+    "id": "task_32",
+    "instruction": "Add a 'Physical Exam' block to the existing draft visit note for patient David Kowalski with the content 'General: Alert, oriented. Lumbar spine tenderness to palpation.'",
+    "verify": "function-tasks/task_32.py"
+  },
+  {
+    "id": "task_33",
+    "instruction": "Edit the HPI block content in the existing draft visit note for patient David Kowalski to 'Patient returns for 6-week follow-up. Reports improvement in back pain with physical therapy. Anxiety well-managed on current medication.'",
+    "verify": "function-tasks/task_33.py"
+  },
+  {
+    "id": "task_34",
+    "instruction": "Remove the HPI block from the existing draft visit note for patient David Kowalski.",
+    "verify": "function-tasks/task_34.py"
+  },
+  {
+    "id": "task_35",
+    "instruction": "Add a billing item with CPT code '99213' and description 'Office visit, established, low complexity' to the existing draft visit note for patient David Kowalski.",
+    "verify": "function-tasks/task_35.py"
+  },
+  {
+    "id": "task_36",
+    "instruction": "Create a new visit note template named 'Chronic Pain Follow-Up' with HPI content 'Patient presents for chronic pain management follow-up.'",
+    "verify": "function-tasks/task_36.py"
+  },
+  {
+    "id": "task_37",
+    "instruction": "Edit the name of the template 'Telehealth Follow-Up' to 'Virtual Visit Follow-Up'.",
+    "verify": "function-tasks/task_37.py"
+  },
+  {
+    "id": "task_38",
+    "instruction": "Duplicate the template 'E* Annual Wellness Visit'.",
+    "verify": "function-tasks/task_38.py"
+  },
+  {
+    "id": "task_39",
+    "instruction": "Delete the template 'Injectable Administration'.",
+    "verify": "function-tasks/task_39.py"
+  },
+  {
+    "id": "task_40",
+    "instruction": "Edit the billing notes of the template 'Pre-Operative Evaluation' to 'Pre-op clearance - ensure all required labs are completed prior to surgery.'",
+    "verify": "function-tasks/task_40.py"
+  },
+  {
+    "id": "task_41",
+    "instruction": "Add the document tag 'Chronic-Pain' to the template 'Diabetes Management'.",
+    "verify": "function-tasks/task_41.py"
+  },
+  {
+    "id": "task_42",
+    "instruction": "Edit the HPI content of the template 'Hypertension Follow-Up' to 'Patient returns for blood pressure management follow-up. Reviewing home BP log and medication compliance.'",
+    "verify": "function-tasks/task_42.py"
+  },
+  {
+    "id": "task_43",
+    "instruction": "Add a new visit note category named 'Behavioral Health' with 'Count for MIPS' enabled.",
+    "verify": "function-tasks/task_43.py"
+  },
+  {
+    "id": "task_44",
+    "instruction": "Edit the name of the visit note category 'Workers Comp' to 'Workers Compensation'.",
+    "verify": "function-tasks/task_44.py"
+  },
+  {
+    "id": "task_45",
+    "instruction": "Remove the visit note category 'Care Plan Review'.",
+    "verify": "function-tasks/task_45.py"
+  },
+  {
+    "id": "task_46",
+    "instruction": "Turn off the 'Count for MIPS' toggle for the visit note category 'Procedure'.",
+    "verify": "function-tasks/task_46.py"
+  },
+  {
+    "id": "task_47",
+    "instruction": "Turn on the 'Count for MIPS' toggle for the visit note category 'Vaccination Only'.",
+    "verify": "function-tasks/task_47.py"
+  },
+  {
+    "id": "task_48",
+    "instruction": "Disable the 'Coded Visit Note Assessments' provider preference in Settings.",
+    "verify": "function-tasks/task_48.py"
+  },
+  {
+    "id": "task_49",
+    "instruction": "Enable the 'Show Dx Codes in Print' provider preference in Settings.",
+    "verify": "function-tasks/task_49.py"
+  },
+  {
+    "id": "task_50",
+    "instruction": "Change the 'Default Visit Note Format' provider preference to 'Simple Note' in Settings.",
+    "verify": "function-tasks/task_50.py"
+  },
+  {
+    "id": "task_51",
+    "instruction": "Change the note format for the 'Office Visit' appointment type to 'H&P Note (Single Column)' in Settings.",
+    "verify": "function-tasks/task_51.py"
+  },
+  {
+    "id": "task_52",
+    "instruction": "Change the note category for the 'Telehealth Visit' appointment type to 'Follow-Up' in Settings.",
+    "verify": "function-tasks/task_52.py"
+  },
+  {
+    "id": "task_53",
+    "instruction": "Change the note template for the 'Follow-Up' appointment type to 'Hypertension Follow-Up' in Settings.",
+    "verify": "function-tasks/task_53.py"
+  },
+  {
+    "id": "task_54",
+    "instruction": "Set the note template for the 'Urgent Same-Day' appointment type to 'E* Problem-Focused Visit' in Settings.",
+    "verify": "function-tasks/task_54.py"
+  },
+  {
+    "id": "task_55",
+    "instruction": "Change the note format for the 'COVID Vaccine' appointment type to 'Non-Visit Note' in Settings.",
+    "verify": "function-tasks/task_55.py"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "task_1",
+    "instruction": "Mark the email 'Q2 Product Roadmap - Final Review' from Sarah Chen as read.",
+    "verify": "function-tasks/task_1.py"
+  },
+  {
+    "id": "task_2",
+    "instruction": "Mark the email 'Re: Infrastructure Migration Plan' from Tom Bradley as unread.",
+    "verify": "function-tasks/task_2.py"
+  },
+  {
+    "id": "task_3",
+    "instruction": "Star the email 'Partnership Opportunity - FinancePlus x Acme' from David Kim.",
+    "verify": "function-tasks/task_3.py"
+  },
+  {
+    "id": "task_4",
+    "instruction": "Remove the star from the email 'FY2026 Budget Summary' from Priya Sharma.",
+    "verify": "function-tasks/task_4.py"
+  },
+  {
+    "id": "task_5",
+    "instruction": "Mark the email 'Budget Approval Needed - Marketing Campaign' from Priya Sharma as done (archive it).",
+    "verify": "function-tasks/task_5.py"
+  },
+  {
+    "id": "task_6",
+    "instruction": "Move the email 'Re: Series B Term Sheet Discussion' from Emily Rodriguez to Trash.",
+    "verify": "function-tasks/task_6.py"
+  },
+  {
+    "id": "task_7",
+    "instruction": "Mark the email 'Global Health Initiative - Sponsorship Request' from Ana Gutierrez as spam.",
+    "verify": "function-tasks/task_7.py"
+  },
+  {
+    "id": "task_8",
+    "instruction": "Set a reminder on the email 'Quantum Computing Integration Prototype' from Kevin Zhao for tomorrow (March 8, 2026).",
+    "verify": "function-tasks/task_8.py"
+  },
+  {
+    "id": "task_9",
+    "instruction": "Clear the reminder on the email 'Patent Filing Deadline - April 15' from James O'Brien.",
+    "verify": "function-tasks/task_9.py"
+  },
+  {
+    "id": "task_10",
+    "instruction": "Apply the 'Urgent' label to the email 'Database Performance Report - March' from Tom Bradley.",
+    "verify": "function-tasks/task_10.py"
+  },
+  {
+    "id": "task_11",
+    "instruction": "Remove the 'Engineering' label from the email 'Re: Sprint 23 Retrospective Notes' from Nate Patel.",
+    "verify": "function-tasks/task_11.py"
+  },
+  {
+    "id": "task_12",
+    "instruction": "Create a new label named 'Design' with blue color (#2196F3).",
+    "verify": "function-tasks/task_12.py"
+  },
+  {
+    "id": "task_13",
+    "instruction": "Delete the 'Receipts' label.",
+    "verify": "function-tasks/task_13.py"
+  },
+  {
+    "id": "task_14",
+    "instruction": "Compose and send a new email to sarah.chen@acmecorp.com with the subject 'Team Sync' and body 'Let's schedule a sync this week.'",
+    "verify": "function-tasks/task_14.py"
+  },
+  {
+    "id": "task_15",
+    "instruction": "Reply to the email 'Partnership Opportunity - FinancePlus x Acme' from David Kim. The reply body should contain 'Let's set up a call next week.'",
+    "verify": "function-tasks/task_15.py"
+  },
+  {
+    "id": "task_16",
+    "instruction": "Forward the email 'Quantum Computing Integration Prototype' from Kevin Zhao to nate.patel@acmecorp.com.",
+    "verify": "function-tasks/task_16.py"
+  },
+  {
+    "id": "task_17",
+    "instruction": "Unsubscribe from the sender of the email 'Today's Briefing: AI Startup Funding Hits Record $12B in Q1' from The Information.",
+    "verify": "function-tasks/task_17.py"
+  },
+  {
+    "id": "task_18",
+    "instruction": "Move the trashed email 'Complete Your Survey - Win a $500 Gift Card' back to Inbox.",
+    "verify": "function-tasks/task_18.py"
+  },
+  {
+    "id": "task_19",
+    "instruction": "Create a new snippet named 'Project Update' with the body 'Hi {first_name}, here is the latest update on {project_name}. Let me know if you have questions.' and share it with the team.",
+    "verify": "function-tasks/task_19.py"
+  },
+  {
+    "id": "task_20",
+    "instruction": "Edit the snippet 'Meeting Follow-up' and change its name to 'Post-Meeting Summary'.",
+    "verify": "function-tasks/task_20.py"
+  },
+  {
+    "id": "task_21",
+    "instruction": "Delete the snippet 'Decline Politely'.",
+    "verify": "function-tasks/task_21.py"
+  },
+  {
+    "id": "task_22",
+    "instruction": "Toggle the sharing setting of the snippet 'Out of Office' to make it shared with the team.",
+    "verify": "function-tasks/task_22.py"
+  },
+  {
+    "id": "task_23",
+    "instruction": "Create a new calendar event titled 'Design Workshop' on March 10, 2026 from 10:00 to 12:00 at 'Zoom'.",
+    "verify": "function-tasks/task_23.py"
+  },
+  {
+    "id": "task_24",
+    "instruction": "Create a new booking page titled 'Strategy Session' with a 60-minute duration and Google Meet as the location.",
+    "verify": "function-tasks/task_24.py"
+  },
+  {
+    "id": "task_25",
+    "instruction": "Toggle the booking page 'Quick Sync' to make it active.",
+    "verify": "function-tasks/task_25.py"
+  },
+  {
+    "id": "task_26",
+    "instruction": "Delete the booking page 'Product Demo'.",
+    "verify": "function-tasks/task_26.py"
+  },
+  {
+    "id": "task_27",
+    "instruction": "Change the theme setting from Light to Dark.",
+    "verify": "function-tasks/task_27.py"
+  },
+  {
+    "id": "task_28",
+    "instruction": "Disable desktop notifications in settings.",
+    "verify": "function-tasks/task_28.py"
+  },
+  {
+    "id": "task_29",
+    "instruction": "Disable sound notifications in settings.",
+    "verify": "function-tasks/task_29.py"
+  },
+  {
+    "id": "task_30",
+    "instruction": "Turn off the Instant Reply feature in settings.",
+    "verify": "function-tasks/task_30.py"
+  },
+  {
+    "id": "task_31",
+    "instruction": "Disable the Smart Send feature in settings.",
+    "verify": "function-tasks/task_31.py"
+  },
+  {
+    "id": "task_32",
+    "instruction": "Turn off the Read Receipts feature in settings.",
+    "verify": "function-tasks/task_32.py"
+  },
+  {
+    "id": "task_33",
+    "instruction": "Disable the Team Read Statuses setting.",
+    "verify": "function-tasks/task_33.py"
+  },
+  {
+    "id": "task_34",
+    "instruction": "Turn off Auto Reminders in settings.",
+    "verify": "function-tasks/task_34.py"
+  },
+  {
+    "id": "task_35",
+    "instruction": "Change the Auto Reminder mode from 'AI-detected' to 'All external'.",
+    "verify": "function-tasks/task_35.py"
+  },
+  {
+    "id": "task_36",
+    "instruction": "Disable Auto Drafts in settings.",
+    "verify": "function-tasks/task_36.py"
+  },
+  {
+    "id": "task_37",
+    "instruction": "Change the Auto Draft type from 'Follow-up' to 'Scheduling'.",
+    "verify": "function-tasks/task_37.py"
+  },
+  {
+    "id": "task_38",
+    "instruction": "Change the swipe left action from 'Mark Done' to 'Trash'.",
+    "verify": "function-tasks/task_38.py"
+  },
+  {
+    "id": "task_39",
+    "instruction": "Change the swipe right action from 'Remind Me' to 'Star'.",
+    "verify": "function-tasks/task_39.py"
+  },
+  {
+    "id": "task_40",
+    "instruction": "Change the meeting link provider from 'Zoom' to 'Google Meet'.",
+    "verify": "function-tasks/task_40.py"
+  },
+  {
+    "id": "task_41",
+    "instruction": "Disable the auto-add meeting link setting.",
+    "verify": "function-tasks/task_41.py"
+  },
+  {
+    "id": "task_42",
+    "instruction": "Disable keyboard shortcuts in settings.",
+    "verify": "function-tasks/task_42.py"
+  },
+  {
+    "id": "task_43",
+    "instruction": "Disable the Auto Archive feature in settings.",
+    "verify": "function-tasks/task_43.py"
+  },
+  {
+    "id": "task_44",
+    "instruction": "Disable calendar alerts in settings.",
+    "verify": "function-tasks/task_44.py"
+  },
+  {
+    "id": "task_45",
+    "instruction": "Change the calendar alert timing to 30 minutes before.",
+    "verify": "function-tasks/task_45.py"
+  },
+  {
+    "id": "task_46",
+    "instruction": "Turn off the Ask AI feature in settings.",
+    "verify": "function-tasks/task_46.py"
+  },
+  {
+    "id": "task_47",
+    "instruction": "Change the email signature to 'Regards,\\nAlex Morgan\\nVP of Product'.",
+    "verify": "function-tasks/task_47.py"
+  },
+  {
+    "id": "task_48",
+    "instruction": "Create a new custom Auto Label named 'Design Review' with from criteria '@designhub.io'.",
+    "verify": "function-tasks/task_48.py"
+  },
+  {
+    "id": "task_49",
+    "instruction": "Disable the Auto Label 'Team Update'.",
+    "verify": "function-tasks/task_49.py"
+  },
+  {
+    "id": "task_50",
+    "instruction": "Delete the custom Auto Label 'Support Ticket'.",
+    "verify": "function-tasks/task_50.py"
+  },
+  {
+    "id": "task_51",
+    "instruction": "Create a new split in the inbox called 'Investor Updates' based on the Auto Label 'Investor'.",
+    "verify": "function-tasks/task_51.py"
+  },
+  {
+    "id": "task_52",
+    "instruction": "Delete the 'Feeds' custom split from the inbox.",
+    "verify": "function-tasks/task_52.py"
+  },
+  {
+    "id": "task_53",
+    "instruction": "Send a new email to marcus.w@designhub.io with the subject 'Design Review Feedback' and CC sarah.chen@acmecorp.com. The body should contain 'Great work on the new designs.'",
+    "verify": "function-tasks/task_53.py"
+  },
+  {
+    "id": "task_54",
+    "instruction": "Apply both the 'Work' and 'Urgent' labels to the email 'Accessibility Audit Results' from Maya Patel.",
+    "verify": "function-tasks/task_54.py"
+  },
+  {
+    "id": "task_55",
+    "instruction": "Move the email 'Re: Payment Terms Discussion' from David Kim (currently in Reminders) back to Inbox by clearing its reminder.",
+    "verify": "function-tasks/task_55.py"
+  },
+  {
+    "id": "task_56",
+    "instruction": "Enable the Auto Label 'Shipping Update' (which is currently disabled).",
+    "verify": "function-tasks/task_56.py"
+  },
+  {
+    "id": "task_57",
+    "instruction": "Create a calendar event titled 'Lunch Meeting' on March 9, 2026 from 12:00 to 13:00 at 'Blue Bottle Coffee' with attendee marcus.w@designhub.io.",
+    "verify": "function-tasks/task_57.py"
+  },
+  {
+    "id": "task_58",
+    "instruction": "Change the primary timezone setting to Pacific Time (America/Los_Angeles).",
+    "verify": "function-tasks/task_58.py"
+  },
+  {
+    "id": "task_59",
+    "instruction": "Change the secondary timezone to 'None'.",
+    "verify": "function-tasks/task_59.py"
+  },
+  {
+    "id": "task_60",
+    "instruction": "Toggle the booking page 'Chat with Alex' to make it inactive.",
+    "verify": "function-tasks/task_60.py"
+  }
+]

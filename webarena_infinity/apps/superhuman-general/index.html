@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Superhuman Mail</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!-- Top Bar -->
+    <header class="top-bar" id="topBar">
+        <div class="top-bar-left">
+            <div class="logo" data-testid="superhuman-logo">
+                <span class="logo-icon">&#9889;</span>
+                <span class="logo-text">Superhuman</span>
+            </div>
+        </div>
+        <div class="top-bar-center">
+            <div class="search-bar" id="searchBar" data-testid="search-bar">
+                <span class="search-icon">&#128269;</span>
+                <input type="text" id="searchInput" class="search-input" placeholder="Search emails... (use from:, to:, subject:, has:attachment)" data-testid="search-input" autocomplete="off">
+            </div>
+        </div>
+        <div class="top-bar-right">
+            <button class="top-btn" data-action="toggle-calendar" data-testid="calendar-toggle-btn" title="Calendar (0)">&#128197;</button>
+            <button class="top-btn" data-action="show-week-view" data-testid="week-view-btn" title="Week View (2)">&#128198;</button>
+            <button class="top-btn" data-action="open-command-palette" data-testid="cmd-k-btn" title="Command Palette (Cmd+K)">&#8984;K</button>
+            <button class="top-btn" data-action="open-settings" data-testid="settings-btn" title="Settings">&#9881;</button>
+            <div class="user-avatar" id="userAvatar" data-testid="user-avatar">
+                <span id="userInitials"></span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Sidebar -->
+    <nav class="sidebar" id="sidebar" data-testid="sidebar">
+        <div class="compose-btn-wrapper">
+            <button class="compose-btn" id="composeBtn" data-action="compose" data-testid="compose-btn">
+                <span class="compose-icon">&#9998;</span>
+                <span>Compose</span>
+            </button>
+        </div>
+        <div class="sidebar-nav" id="sidebarNav">
+            <!-- Populated by JS -->
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-content" id="mainContent" data-testid="main-content">
+        <!-- Toolbar -->
+        <div class="toolbar" id="toolbar">
+            <!-- Populated by JS -->
+        </div>
+        <!-- Content area -->
+        <div class="content-wrapper" id="contentWrapper">
+            <!-- Populated by JS -->
+        </div>
+    </main>
+
+    <!-- Calendar Sidebar -->
+    <aside class="calendar-sidebar" id="calendarSidebar" style="display:none" data-testid="calendar-sidebar">
+        <!-- Populated by JS -->
+    </aside>
+
+    <!-- Compose Modal -->
+    <div class="compose-modal-overlay" id="composeModal" style="display:none">
+        <div class="compose-modal" data-testid="compose-modal">
+            <div class="compose-header">
+                <span class="compose-title" id="composeTitle">New Message</span>
+                <div class="compose-header-actions">
+                    <button class="compose-minimize" data-action="minimize-compose" aria-label="Minimize">&ndash;</button>
+                    <button class="compose-close" data-action="close-compose" aria-label="Close">&times;</button>
+                </div>
+            </div>
+            <div class="compose-fields">
+                <div class="compose-field">
+                    <label>To</label>
+                    <input type="text" id="composeTo" data-testid="compose-to" placeholder="Recipients">
+                </div>
+                <div class="compose-field" id="composeCcField" style="display:none">
+                    <label>Cc</label>
+                    <input type="text" id="composeCc" data-testid="compose-cc" placeholder="">
+                </div>
+                <div class="compose-field" id="composeBccField" style="display:none">
+                    <label>Bcc</label>
+                    <input type="text" id="composeBcc" data-testid="compose-bcc" placeholder="">
+                </div>
+                <div class="compose-field-links">
+                    <a href="#" data-action="show-cc">Cc</a>
+                    <a href="#" data-action="show-bcc">Bcc</a>
+                    <a href="#" data-action="open-snippet-picker" data-testid="insert-snippet-btn" title="Insert Snippet (;)">&#128196; Snippet</a>
+                </div>
+                <div class="compose-field">
+                    <input type="text" id="composeSubject" data-testid="compose-subject" placeholder="Subject">
+                </div>
+            </div>
+            <div class="compose-body">
+                <textarea id="composeBody" data-testid="compose-body" placeholder="Write your message..."></textarea>
+            </div>
+            <div class="compose-footer">
+                <button class="btn btn-primary" data-action="send-email" data-testid="compose-send">Send</button>
+                <div class="compose-options">
+                    <button class="compose-option-btn" data-action="discard-draft" aria-label="Discard draft" data-testid="compose-discard">&#128465;</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Generic Modal -->
+    <div class="modal-overlay" id="modalOverlay" style="display:none">
+        <div class="modal" id="modalContainer">
+            <div class="modal-header">
+                <h2 id="modalTitle"></h2>
+                <button class="modal-close" data-action="close-modal">&times;</button>
+            </div>
+            <div class="modal-body" id="modalBody"></div>
+            <div class="modal-footer" id="modalFooter"></div>
+        </div>
+    </div>
+
+    <!-- Settings Panel -->
+    <div class="settings-panel" id="settingsPanel" style="display:none" data-testid="settings-panel">
+        <!-- Populated by JS -->
+    </div>
+
+    <!-- Command Palette -->
+    <div id="commandPaletteContainer" style="display:none"></div>
+
+    <!-- Pickers -->
+    <div id="reminderPickerContainer" style="display:none"></div>
+    <div id="labelPickerContainer" style="display:none"></div>
+    <div id="movePickerContainer" style="display:none"></div>
+    <div id="snippetPickerContainer" style="display:none"></div>
+
+    <!-- Toast Container -->
+    <div class="toast-container" id="toastContainer"></div>
+
+    <script src="js/data.js"></script>
+    <script src="js/state.js"></script>
+    <script src="js/components.js"></script>
+    <script src="js/views.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

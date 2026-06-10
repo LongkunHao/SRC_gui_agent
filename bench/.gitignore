@@ -1,0 +1,9 @@
+# Raw results pulled from S3 (too large to track)
+s3_results*/
+
+# LLM feature extraction cache
+cache/
+
+# Python
+__pycache__/
+*.py[oc]

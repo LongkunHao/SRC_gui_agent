@@ -1,0 +1,292 @@
+[
+  {
+    "id": "task_1",
+    "instruction": "Mark Emily Thompson's unread message about dizziness when standing as read. The message is in the Patient Letters inbox.",
+    "verify": "function-tasks/task_1.py"
+  },
+  {
+    "id": "task_2",
+    "instruction": "Mark Sophia Nguyen's unread appointment request message as read in the Patient Letters inbox.",
+    "verify": "function-tasks/task_2.py"
+  },
+  {
+    "id": "task_3",
+    "instruction": "Reply to James Rodriguez's prescription refill conversation. Send a reply saying 'Yes, I will also send a refill for your Lisinopril. You can pick both up at your pharmacy tomorrow.'",
+    "verify": "function-tasks/task_3.py"
+  },
+  {
+    "id": "task_4",
+    "instruction": "Reply to Howard Blackwell's conversation where he asked about gardening. Send a reply saying 'Light gardening should be fine this spring. Start slowly and avoid heavy lifting. Stop if you feel short of breath.'",
+    "verify": "function-tasks/task_4.py"
+  },
+  {
+    "id": "task_5",
+    "instruction": "End (sign off) the conversation with Maria Gonzalez about her lab results and diet questions. The conversation subject starts with 'Resultados de laboratorio'.",
+    "verify": "function-tasks/task_5.py"
+  },
+  {
+    "id": "task_6",
+    "instruction": "End (sign off) the conversation with Aisha Patel about her prenatal visit reminder and ankle swelling question.",
+    "verify": "function-tasks/task_6.py"
+  },
+  {
+    "id": "task_7",
+    "instruction": "Compose and send a new letter to David Park with the subject 'Asthma Follow-up Scheduling' and the body 'Hi David, please schedule your next spirometry test at your earliest convenience. We recommend testing every 6 months.'",
+    "verify": "function-tasks/task_7.py"
+  },
+  {
+    "id": "task_8",
+    "instruction": "Compose and send a new letter to Priya Sharma with the subject 'Medical Records Information' and the body 'Hi Priya, please fill out the attached records release form and return it to our office. Processing takes 5-7 business days.' Enable the 'do not allow patient to respond' option.",
+    "verify": "function-tasks/task_8.py"
+  },
+  {
+    "id": "task_9",
+    "instruction": "Delete the draft letter that was being composed for Martha Reeves-Whitfield about her annual wellness visit summary.",
+    "verify": "function-tasks/task_9.py"
+  },
+  {
+    "id": "task_10",
+    "instruction": "Send the existing draft letter to Martha Reeves-Whitfield. The draft is about her annual wellness visit summary.",
+    "verify": "function-tasks/task_10.py"
+  },
+  {
+    "id": "task_11",
+    "instruction": "Add the 'VIP' tag to patient David Park.",
+    "verify": "function-tasks/task_11.py"
+  },
+  {
+    "id": "task_12",
+    "instruction": "Add the 'High Risk' tag to patient Janet Okonkwo.",
+    "verify": "function-tasks/task_12.py"
+  },
+  {
+    "id": "task_13",
+    "instruction": "Add the 'Insurance Pending' tag to patient Megan Burke.",
+    "verify": "function-tasks/task_13.py"
+  },
+  {
+    "id": "task_14",
+    "instruction": "Remove the 'New Patient' tag from Emily Thompson's patient profile.",
+    "verify": "function-tasks/task_14.py"
+  },
+  {
+    "id": "task_15",
+    "instruction": "Remove the 'Chronic Care' tag from Robert Washington's patient profile.",
+    "verify": "function-tasks/task_15.py"
+  },
+  {
+    "id": "task_16",
+    "instruction": "Change David Park's SMS opt-in status to opted out. Navigate to his patient profile to make this change.",
+    "verify": "function-tasks/task_16.py"
+  },
+  {
+    "id": "task_17",
+    "instruction": "Change Robert Washington's SMS opt-in status to opted in. Navigate to his patient profile to make this change.",
+    "verify": "function-tasks/task_17.py"
+  },
+  {
+    "id": "task_18",
+    "instruction": "Update Brian Murphy's email address to 'brian.murphy@gmail.com' in his patient profile.",
+    "verify": "function-tasks/task_18.py"
+  },
+  {
+    "id": "task_19",
+    "instruction": "Update Alice Johansson's cell phone number to '(415) 555-9999' in her patient profile.",
+    "verify": "function-tasks/task_19.py"
+  },
+  {
+    "id": "task_20",
+    "instruction": "Add an emergency contact for Kevin Adebayo with name 'Grace Adebayo', phone '(650) 555-1122', and relationship 'Wife'.",
+    "verify": "function-tasks/task_20.py"
+  },
+  {
+    "id": "task_21",
+    "instruction": "Send a Patient Passport invitation to Anthony Petrov. He has not been invited yet.",
+    "verify": "function-tasks/task_21.py"
+  },
+  {
+    "id": "task_22",
+    "instruction": "Send a Patient Passport invitation to Brian Murphy. He has not been invited yet.",
+    "verify": "function-tasks/task_22.py"
+  },
+  {
+    "id": "task_23",
+    "instruction": "Send a Patient Passport invitation to Megan Burke. She has not been invited yet.",
+    "verify": "function-tasks/task_23.py"
+  },
+  {
+    "id": "task_24",
+    "instruction": "Resend the Patient Passport invitation to Marcus Johnson. He was previously invited but has not registered.",
+    "verify": "function-tasks/task_24.py"
+  },
+  {
+    "id": "task_25",
+    "instruction": "Resend the Patient Passport invitation to William Chang. He was previously invited but has not registered.",
+    "verify": "function-tasks/task_25.py"
+  },
+  {
+    "id": "task_26",
+    "instruction": "Disable the Patient Passport account for Stephanie Rivera.",
+    "verify": "function-tasks/task_26.py"
+  },
+  {
+    "id": "task_27",
+    "instruction": "Change the Passport sharing level for James Rodriguez from level 3 to level 4 (Clinical Profile, Expanded Summary).",
+    "verify": "function-tasks/task_27.py"
+  },
+  {
+    "id": "task_28",
+    "instruction": "Change the Passport sharing level for Helen Matsumoto from level 3 to level 1 (Objective Data Only).",
+    "verify": "function-tasks/task_28.py"
+  },
+  {
+    "id": "task_29",
+    "instruction": "Schedule a new in-person appointment for Emily Thompson with Dr. Sarah Chen on March 15, 2026 at 10:00 AM for a 'General check-up'.",
+    "verify": "function-tasks/task_29.py"
+  },
+  {
+    "id": "task_30",
+    "instruction": "Schedule a new virtual appointment for Andrew McIntyre with Dr. Michael Torres on March 20, 2026 at 3:00 PM for a 'GI follow-up consultation'.",
+    "verify": "function-tasks/task_30.py"
+  },
+  {
+    "id": "task_31",
+    "instruction": "Cancel Thomas Nakamura's upcoming appointment for cardiac monitoring scheduled in May 2026.",
+    "verify": "function-tasks/task_31.py"
+  },
+  {
+    "id": "task_32",
+    "instruction": "Cancel Dennis Volkov's upcoming appointment for blood pressure management.",
+    "verify": "function-tasks/task_32.py"
+  },
+  {
+    "id": "task_33",
+    "instruction": "Cancel Sophia Nguyen's upcoming virtual appointment for her thyroid check-up.",
+    "verify": "function-tasks/task_33.py"
+  },
+  {
+    "id": "task_34",
+    "instruction": "Go to the Reminders page and acknowledge the unread alert reminder about Maria Gonzalez not having read her lab results letter.",
+    "verify": "function-tasks/task_34.py"
+  },
+  {
+    "id": "task_35",
+    "instruction": "Go to the Reminders page and acknowledge the appointment reminder for Aisha Patel's prenatal checkup.",
+    "verify": "function-tasks/task_35.py"
+  },
+  {
+    "id": "task_36",
+    "instruction": "Go to the Reminders page and acknowledge the appointment reminder for Martha Reeves-Whitfield's wellness visit follow-up.",
+    "verify": "function-tasks/task_36.py"
+  },
+  {
+    "id": "task_37",
+    "instruction": "Go to the Reminders page and acknowledge the passport invitation reminder for Marcus Johnson who has not yet registered.",
+    "verify": "function-tasks/task_37.py"
+  },
+  {
+    "id": "task_38",
+    "instruction": "Go to the Reminders page and acknowledge the appointment reminder for James Rodriguez's diabetes follow-up.",
+    "verify": "function-tasks/task_38.py"
+  },
+  {
+    "id": "task_39",
+    "instruction": "In the User Settings, change Dr. Sarah Chen's clinical profile sharing default from level 2 to level 3 (Clinical Profile, excludes Confidential).",
+    "verify": "function-tasks/task_39.py"
+  },
+  {
+    "id": "task_40",
+    "instruction": "In the User Settings, change Dr. Sarah Chen's unread letter notification timeframe from 48 hours to 72 hours.",
+    "verify": "function-tasks/task_40.py"
+  },
+  {
+    "id": "task_41",
+    "instruction": "In the User Settings, change Dr. Michael Torres's unread letter notification timeframe to 'Do not notify me' (none).",
+    "verify": "function-tasks/task_41.py"
+  },
+  {
+    "id": "task_42",
+    "instruction": "In the Admin Settings, disable patient messaging by turning off the 'Allow Patient Messaging' toggle.",
+    "verify": "function-tasks/task_42.py"
+  },
+  {
+    "id": "task_43",
+    "instruction": "In the Admin Settings, disable the 'Booking Site Auto-Invite' toggle that automatically invites patients to Passport.",
+    "verify": "function-tasks/task_43.py"
+  },
+  {
+    "id": "task_44",
+    "instruction": "In the Message Routing settings, update Dr. Sarah Chen's routing so that 'Test Results' messages are also routed to the 'Clinical Team' group, in addition to the existing recipients.",
+    "verify": "function-tasks/task_44.py"
+  },
+  {
+    "id": "task_45",
+    "instruction": "In the Message Routing settings, update Dr. Michael Torres's routing so that 'General Question' messages are only routed to Dr. Torres himself (remove the 'Front Desk' group).",
+    "verify": "function-tasks/task_45.py"
+  },
+  {
+    "id": "task_46",
+    "instruction": "In the Message Routing settings, update Dr. Robert Kim's routing so that 'Prescription Refill' messages are also routed to the 'Nurses' group, in addition to the existing recipients.",
+    "verify": "function-tasks/task_46.py"
+  },
+  {
+    "id": "task_47",
+    "instruction": "In the Telehealth settings, activate virtual visits for Jessica Okafor and set her virtual visit instructions to 'Join your telehealth visit at https://zoom.us/j/1234567890. Please test your camera and microphone beforehand.'",
+    "verify": "function-tasks/task_47.py"
+  },
+  {
+    "id": "task_48",
+    "instruction": "In the Telehealth settings, deactivate virtual visits for Dr. Michael Torres.",
+    "verify": "function-tasks/task_48.py"
+  },
+  {
+    "id": "task_49",
+    "instruction": "In the Telehealth settings, update Dr. Robert Kim's virtual visit instructions to 'Please join via https://zoom.us/j/9999999999. Test your camera before the visit.'",
+    "verify": "function-tasks/task_49.py"
+  },
+  {
+    "id": "task_50",
+    "instruction": "In the Telehealth settings, disable the 'Screen Sharing for Patients' option in the video settings.",
+    "verify": "function-tasks/task_50.py"
+  },
+  {
+    "id": "task_51",
+    "instruction": "In the Telehealth settings, disable the 'Waiting Room Audio Notification' option in the video settings.",
+    "verify": "function-tasks/task_51.py"
+  },
+  {
+    "id": "task_52",
+    "instruction": "In the Telehealth settings, change the video chat mode from 'Everyone in Meeting' to 'Host Only'.",
+    "verify": "function-tasks/task_52.py"
+  },
+  {
+    "id": "task_53",
+    "instruction": "In the Locations settings, add a new practice location with the name 'South Bay Clinic', address '789 Stevens Creek Blvd, San Jose, CA 95128', POS code '11', and POS description 'Office'.",
+    "verify": "function-tasks/task_53.py"
+  },
+  {
+    "id": "task_54",
+    "instruction": "In the Locations settings, remove the 'East Bay Clinic' practice location.",
+    "verify": "function-tasks/task_54.py"
+  },
+  {
+    "id": "task_55",
+    "instruction": "In the Billing settings, add CPT code '99205' with the description 'Office visit, new patient, high complexity'.",
+    "verify": "function-tasks/task_55.py"
+  },
+  {
+    "id": "task_56",
+    "instruction": "In the Billing settings, remove the CPT code '99201' (Office visit, new patient, minimal).",
+    "verify": "function-tasks/task_56.py"
+  },
+  {
+    "id": "task_57",
+    "instruction": "In the Locations settings, update the 'Main Office' practice location name to 'SF Main Office'.",
+    "verify": "function-tasks/task_57.py"
+  },
+  {
+    "id": "task_58",
+    "instruction": "Select patients James Rodriguez and Emily Thompson from the patient list, then send them a bulk letter with description 'Annual Wellness Reminder', subject 'Schedule Your Annual Wellness Visit', body 'Dear patient, please schedule your annual wellness visit at your earliest convenience. Contact our office to book an appointment.', and enable the option to allow patients to respond.",
+    "verify": "function-tasks/task_58.py"
+  }
+]
